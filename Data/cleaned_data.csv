@@ -1,0 +1,1466 @@
+﻿UniprotID,Gene,FromAA,ToAA,Location,PDB,Metal,Type of interaction,Disease,Resource,DiseaseOutcome,FromHydro,ToHydro,FromVolume,ToVolume,FromHydrogen,ToHydrogen,hydrophobicity,volume,hDonorAcceptor
+O43918,AIRE,C,Y,311,2KE1,ZN,Direct,Immune system disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+O60882,MMP20,H,Q,226,2JSD,ZN,Direct,Tooth disease,ClinVar,1,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+O60882,MMP20,H,R,204,2JSD,ZN,Direct,Tooth disease,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+O96017,CHEK2,D,N,347,2W7X,MG,Direct,Breast disease,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+O96017,CHEK2,D,A,347,2W7X,MG,Direct,Breast disease,ClinVar,1,hydrophilic,hydrophobic,small,very_small,acceptor,none,1,1,1
+P00439,PAH,H,L,290,5PAH,FE,Direct,Metabolic disease,ClinVar,1,neutral,hydrophobic,medium,large,donor_and_acceptor,none,1,1,1
+P00441,SOD1,H,R,47,3KH3,CU,Direct,Nervous System disease,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P00441,SOD1,H,R,81,3KH3,ZN,Direct,Nervous System disease,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P01112,HRAS,T,I,58,1K8R,MG,Direct,Hereditary disease,ClinVar,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+P01112,HRAS,E,K,63,2CL0,MG,Direct,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P01116,KRAS,A,T,59,4DSN,MG,Direct,Urogenital disease,ClinVar,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P01116,KRAS,G,R,60,4DSN,MG,Direct,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P01116,KRAS,G,S,60,4DSN,MG,Direct,Skin and Connective Tissue disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P01116,KRAS,G,V,60,4DSN,MG,Direct,Lung disease,ClinVar,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P01116,KRAS,A,S,59,4DSN,MG,Direct,Not provided,ClinVar,1,hydrophobic,neutral,very_small,very_small,none,donor_and_acceptor,1,0,1
+P01130,LDLR,D,Y,118,1N7D,CA,Direct,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P01130,LDLR,C,W,27,1F5Y,CA,Direct,Hereditary disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,donor,0,1,1
+P01130,LDLR,G,S,98,2FCW,NA,Direct,Hereditary disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P01130,LDLR,G,R,98,2FCW,NA,Direct,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P01130,LDLR,C,R,27,1F5Y,CA,Direct,Hereditary disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P02766,TTR,E,G,62,3DGD,ZN,Direct,Metabolic disease,ClinVar,1,hydrophilic,neutral,medium,very_small,acceptor,none,1,1,1
+P04049,RAF1,T,I,260,3CU8,MG,Direct,Cardiovascular Disease,ClinVar,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+P04049,RAF1,T,P,260,3CU8,MG,Direct,Not provided,ClinVar,1,neutral,neutral,small,small,donor_and_acceptor,none,0,0,1
+P04275,VWF,R,W,1597,3ZQK,CA,Direct,Hereditary disease,ClinVar,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+P04637,TP53,C,Y,242,1KZY,ZN,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P04637,TP53,H,Y,179,1KZY,ZN,Direct,Gastro-Intestinal disease,ClinVar,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P04637,TP53,C,Y,238,1KZY,ZN,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P04637,TP53,C,Y,176,1KZY,ZN,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P04637,TP53,C,F,176,1KZY,ZN,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P04637,TP53,C,F,238,1KZY,ZN,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P04637,TP53,C,S,238,1KZY,ZN,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P04637,TP53,C,R,238,1KZY,ZN,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P04637,TP53,C,F,242,1KZY,ZN,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P04637,TP53,H,N,179,1KZY,ZN,Direct,Gastro-Intestinal disease,ClinVar,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P04637,TP53,H,Q,179,1KZY,ZN,Direct,Hereditary disease,ClinVar,1,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P04637,TP53,C,R,242,1KZY,ZN,Direct,Not provided,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P05129,PRKCG,C,S,77,2E73,ZN,Direct,Nervous System disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P05129,PRKCG,C,S,52,2E73,ZN,Direct,Nervous System disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P05129,PRKCG,C,Y,66,2E73,ZN,Direct,Nervous System disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P08253,MMP2,D,N,180,1EAK,ZN,Direct,Not provided,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P08754,GNAI3,S,R,47,2ODE,MG,Direct,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,large,donor_and_acceptor,donor,1,1,1
+P0DP23,CALM1,N,S,98,2R28,CA,Direct,Cardiovascular Disease,ClinVar,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P0DP23,CALM1,D,G,130,2R28,CA,Direct,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P0DP23,CALM1,E,K,105,2R28,CA,Direct,Not provided,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P0DP23,CALM1,E,V,140,1XFX,CA,Direct,Not provided,ClinVar,1,hydrophilic,hydrophobic,medium,medium,acceptor,none,1,0,1
+P11362,FGFR1,N,K,628,3GQI,MG,Direct,Nervous System disease,ClinVar,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P11362,FGFR1,D,N,641,3GQI,MG,Direct,Nervous System disease,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P11511,CYP19A1,C,Y,437,3EQM,FE,Direct,Urogenital disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P12883,MYH7,C,S,905,2FXM,HG,Direct,Cardiovascular Disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P12883,MYH7,S,C,242,4DB1,MN,Direct,Not provided,ClinVar,1,neutral,hydrophobic,very_small,small,donor_and_acceptor,none,1,1,1
+P22681,CBL,C,R,384,2Y1M,ZN,Direct,Blood disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P22681,CBL,C,R,396,4A4C,ZN,Direct,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P22681,CBL,C,R,401,2Y1M,ZN,Direct,Not provided,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P23025,XPA,C,F,108,1XPA,ZN,Direct,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P23025,XPA,C,Y,108,1XPA,ZN,Direct,Not provided,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P27635,RPL10,G,S,161,2PA2,K,Direct,Nervous System disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P30793,GCH1,H,P,144,1FB1,ZN,Direct,Nervous System disease,ClinVar,1,neutral,neutral,medium,small,donor_and_acceptor,none,0,1,1
+P35555,FBN1,N,S,2144,1EMN,CA,Direct,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P35555,FBN1,E,K,1584,1UZP,SM,Direct,Cardiovascular Disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P35555,FBN1,T,P,2167,1EMN,CA,Direct,Not provided,ClinVar,1,neutral,neutral,small,small,donor_and_acceptor,none,0,0,1
+P35555,FBN1,D,Y,2166,1EMN,CA,Direct,Not provided,ClinVar,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P35555,FBN1,D,N,2166,1EMN,CA,Direct,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P35555,FBN1,E,K,2130,1EMN,CA,Direct,Cardiovascular Disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P35555,FBN1,G,D,1507,1UZP,SM,Direct,Not provided,ClinVar,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P35555,FBN1,N,H,2144,1EMN,CA,Direct,Cardiovascular Disease,ClinVar,1,hydrophilic,neutral,small,medium,donor_and_acceptor,donor_and_acceptor,1,1,0
+P35555,FBN1,D,N,2127,1EMN,CA,Direct,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P35555,FBN1,D,N,1487,1UZP,SM,Direct,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P35557,GCK,D,E,205,3FGU,MG,Direct,Metabolic disease,ClinVar,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+P35557,GCK,V,M,244,3FR0,NA,Direct,Not provided,ClinVar,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P35914,HMGCL,H,R,233,2CW6,MG,Direct,Not provided,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P37231,PPARG,C,S,162,3DZY,ZN,Direct,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,G,64,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P38398,BRCA1,C,G,61,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P38398,BRCA1,C,Y,39,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,F,39,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P38398,BRCA1,C,S,39,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,R,39,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P38398,BRCA1,C,G,39,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P38398,BRCA1,H,R,41,1JM7,ZN,Direct,Breast disease,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P38398,BRCA1,C,S,44,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,Y,44,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,F,44,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P38398,BRCA1,C,G,47,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P38398,BRCA1,C,Y,47,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,F,47,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P38398,BRCA1,C,S,61,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,R,61,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P38398,BRCA1,C,Y,61,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,R,64,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P38398,BRCA1,C,Y,64,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,R,24,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P38398,BRCA1,C,W,64,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,donor,0,1,1
+P38398,BRCA1,H,L,41,1JM7,ZN,Direct,Breast disease,ClinVar,1,neutral,hydrophobic,medium,large,donor_and_acceptor,none,1,1,1
+P38398,BRCA1,C,S,47,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,W,39,1JM7,ZN,Direct,Breast disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,donor,0,1,1
+P45381,ASPA,E,G,24,2Q51,ZN,Direct,Metabolic disease,ClinVar,1,hydrophilic,neutral,medium,very_small,acceptor,none,1,1,1
+P45452,MMP13,H,N,232,1YOU,ZN,Direct,Muscular disease,ClinVar,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P46100,ATRX,C,Y,220,3QLA,ZN,Direct,Hereditary disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P46100,ATRX,C,F,200,3QLA,ZN,Direct,Not provided,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P46100,ATRX,C,W,243,3QLA,ZN,Direct,Not provided,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,donor,0,1,1
+P46100,ATRX,C,Y,223,3QLA,ZN,Direct,Not provided,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P46976,GYG1,D,H,102,3T7M,MN,Direct,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,D,Y,472,3FBY,CA,Direct,Muscular disease,ClinVar,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,D,Y,342,3FBY,CA,Direct,Muscular disease,ClinVar,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,C,R,328,3FBY,CA,Direct,Muscular disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P49747,COMP,N,K,523,3FBY,CA,Direct,Muscular disease,ClinVar,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P49747,COMP,N,S,453,3FBY,CA,Direct,Muscular disease,ClinVar,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P49747,COMP,D,G,473,3FBY,CA,Direct,Muscular disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P49747,COMP,C,F,292,3FBY,CA,Direct,Not provided,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P49747,COMP,D,N,408,3FBY,CA,Direct,Not provided,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P49747,COMP,D,E,511,3FBY,CA,Direct,Not provided,ClinVar,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+P49747,COMP,H,R,441,3FBY,CA,Direct,Not provided,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P49747,COMP,D,H,271,3FBY,CA,Direct,Not provided,ClinVar,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,D,Y,376,3FBY,CA,Direct,Muscular disease,ClinVar,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,D,N,399,3FBY,CA,Direct,Not provided,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P49773,HINT1,H,N,112,1KPE,W,Direct,Nervous System disease,ClinVar,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P50461,CSRP3,C,G,58,2O10,ZN,Direct,Cardiovascular Disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P50461,CSRP3,C,Y,150,2O13,ZN,Direct,Cardiovascular Disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P52732,KIF11,S,C,235,2X7D,MG,Direct,Muscular disease,ClinVar,1,neutral,hydrophobic,very_small,small,donor_and_acceptor,none,1,1,1
+P54278,PMS2,N,T,45,1EA6,MG,Direct,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,small,donor_and_acceptor,donor_and_acceptor,1,0,0
+P61769,B2M,M,I,1,1YDP,CO,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P61769,B2M,M,V,1,1YDP,CO,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P61769,B2M,M,L,1,1YDP,CO,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P61769,B2M,M,T,1,1YDP,CO,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P61769,B2M,M,R,1,1YDP,CO,Direct,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P68400,CSNK2A1,D,G,175,3NSZ,MG,Direct,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P68871,HBB,H,Y,93,2YRS,FE,Direct,Metabolic disease,ClinVar,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P68871,HBB,H,N,93,2YRS,FE,Direct,Blood disease,ClinVar,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P98170,XIAP,C,Y,203,1I3O,ZN,Direct,Immune system disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q03164,KMT2A,C,R,1189,2KKF,ZN,Direct,Not provided,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+Q03164,KMT2A,C,Y,1155,2J2S,ZN,Direct,Not provided,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q03164,KMT2A,C,S,1158,2J2S,ZN,Direct,Not provided,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+Q03164,KMT2A,C,Y,1158,2J2S,ZN,Direct,Hereditary disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q03164,KMT2A,C,Y,1189,2KKF,ZN,Direct,Hereditary disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q08209,PPP3CA,H,R,92,3LL8,FE,Direct,Hereditary disease,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q08209,PPP3CA,H,Q,281,3LL8,ZN,Direct,Hereditary disease,ClinVar,1,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q13586,STIM1,N,T,80,2K60,CA,Direct,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,small,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q14623,IHH,E,K,95,3N1F,CA,Direct,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q14623,IHH,E,K,131,3N1F,CA,Direct,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q14623,IHH,D,E,100,3N1P,CA,Direct,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+Q14623,IHH,D,N,100,3N1P,CA,Direct,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q14623,IHH,E,G,95,3N1F,CA,Direct,Hereditary disease,ClinVar,1,hydrophilic,neutral,medium,very_small,acceptor,none,1,1,1
+Q14623,IHH,T,N,130,3N1P,CA,Direct,Hereditary disease,ClinVar,1,neutral,hydrophilic,small,small,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q4FZB7,KMT5B,C,G,324,3S8P,ZN,Direct,Hereditary disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+Q7LG56,RRM2B,E,K,194,3HF1,FE,Direct,Metabolic disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q7LG56,RRM2B,E,K,131,3HF1,FE,Direct,Metabolic disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q7LG56,RRM2B,E,G,194,3HF1,FE,Direct,Metabolic disease,ClinVar,1,hydrophilic,neutral,medium,very_small,acceptor,none,1,1,1
+Q8IWV7,UBR1,H,R,136,3NY1,ZN,Direct,Endocrine System disease,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q8NI22,MCFD2,D,E,129,3LCP,CA,Direct,Metabolic disease,ClinVar,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+Q8NI22,MCFD2,D,Y,81,3LCP,CA,Direct,Metabolic disease,ClinVar,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+Q9BY41,HDAC8,H,R,180,3F0R,ZN,Direct,Hereditary disease,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q9BY41,HDAC8,S,T,199,3EZT,K,Direct,Not provided,ClinVar,1,neutral,neutral,very_small,small,donor_and_acceptor,donor_and_acceptor,0,1,0
+Q9BY41,HDAC8,D,G,176,3EZT,K,Direct,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+Q9BY41,HDAC8,V,G,195,1W22,K,Direct,Muscular disease,ClinVar,1,hydrophobic,neutral,medium,very_small,none,none,1,1,0
+Q9GZT9,EGLN1,H,R,374,3OUJ,FE,Direct,Metabolic disease,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q9H0F7,ARL6,T,M,31,2H57,MG,Direct,Hereditary disease,ClinVar,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q9H0F7,ARL6,T,R,31,2H57,MG,Direct,Hereditary disease,ClinVar,1,neutral,hydrophilic,small,large,donor_and_acceptor,donor,1,1,1
+Q9Y6K1,DNMT3A,C,R,562,3A1A,ZN,Direct,Hereditary disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+Q9Y6K1,DNMT3A,C,Y,583,3A1A,ZN,Direct,Not provided,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+O14832,PHYH,Q,K,176,2A1X,FE,Indirect,Nervous System disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+O15550,KDM6A,W,R,1227,3AVS,NI,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophilic,very_large,large,donor,donor,1,1,0
+O43918,AIRE,V,M,301,1XWH,ZN,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+O60494,CUBN,T,R,1372,3KQ4,CA,Indirect,Metabolic disease,ClinVar,1,neutral,hydrophilic,small,large,donor_and_acceptor,donor,1,1,1
+O60930,RNASEH1,A,V,185,2QKK,CA,Indirect,Muscular disease,ClinVar,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+O75880,SCO1,P,L,174,2GGT,NI,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,small,large,none,none,1,1,0
+P00439,PAH,F,S,331,5PAH,FE,Indirect,Metabolic disease,ClinVar,1,hydrophobic,neutral,very_large,very_small,none,donor_and_acceptor,1,1,1
+P00439,PAH,G,R,289,5PAH,FE,Indirect,Metabolic disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P00441,SOD1,L,V,85,3KH3,ZN,Indirect,Nervous System disease,ClinVar,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P00441,SOD1,G,S,73,3KH3,ZN,Indirect,Nervous System disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P00441,SOD1,F,C,46,3KH3,CU,Indirect,Nervous System disease,ClinVar,1,hydrophobic,hydrophobic,very_large,small,none,none,0,1,0
+P01111,NRAS,A,T,18,3CON,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P01112,HRAS,A,T,59,1K8R,MG,Indirect,Hereditary disease,ClinVar,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P01112,HRAS,G,S,138,3LBI,CA,Indirect,Hereditary disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P01116,KRAS,A,T,59,1K8R,MG,Indirect,Urogenital disease,ClinVar,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P01116,KRAS,T,I,58,4DSN,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+P01116,KRAS,P,R,34,4DSO,MG,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,small,large,none,donor,1,1,1
+P01116,KRAS,P,L,34,4DSO,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,hydrophobic,small,large,none,none,1,1,0
+P01116,KRAS,Q,R,61,4DSN,MG,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+P01116,KRAS,Q,L,61,4DSN,MG,Indirect,Metabolic disease,ClinVar,1,hydrophilic,hydrophobic,medium,large,donor_and_acceptor,none,1,1,1
+P01116,KRAS,Q,H,61,4DSN,MG,Indirect,Blood disease,ClinVar,1,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P01116,KRAS,R,K,97,4DSN,MG,Indirect,Lung disease,ClinVar,1,hydrophilic,hydrophilic,large,large,donor,donor,0,0,0
+P01116,KRAS,Q,K,61,4DSN,MG,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+P01116,KRAS,I,M,36,4DSO,MG,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P01116,KRAS,Q,P,61,4DSN,MG,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophilic,neutral,medium,small,donor_and_acceptor,none,1,1,1
+P01116,KRAS,Q,E,61,4DSN,MG,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophilic,hydrophilic,medium,medium,donor_and_acceptor,acceptor,0,0,1
+P01130,LDLR,G,S,335,1N7D,CA,Indirect,Hereditary disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P01130,LDLR,E,K,240,1D2J,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P01130,LDLR,G,R,119,1N7D,CA,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P01130,LDLR,G,D,335,1N7D,CA,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P01130,LDLR,C,Y,313,2W2Q,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P01130,LDLR,E,K,113,1N7D,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P01130,LDLR,N,K,97,2FCW,NA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P01130,LDLR,G,E,246,1D2J,CA,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P01130,LDLR,C,R,313,2W2Q,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P01130,LDLR,C,G,313,2W2Q,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P01130,LDLR,C,W,313,2W2Q,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,donor,0,1,1
+P01130,LDLR,G,V,335,1N7D,CA,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P01130,LDLR,E,K,28,1F5Y,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P01130,LDLR,S,C,244,1D2J,CA,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,very_small,small,donor_and_acceptor,none,1,1,1
+P01130,LDLR,G,V,246,1D2J,CA,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P01308,INS,A,D,24,3EXX,NA,Indirect,Metabolic disease,ClinVar,1,hydrophobic,hydrophilic,very_small,small,none,acceptor,1,1,1
+P01308,INS,A,V,24,3EXX,NA,Indirect,Metabolic disease,ClinVar,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P02766,TTR,V,A,91,3GRG,ZN,Indirect,Metabolic disease,ClinVar,1,hydrophobic,hydrophobic,medium,very_small,none,none,0,1,0
+P03372,ESR1,E,Q,380,1A52,AU,Indirect,Breast disease,ClinVar,1,hydrophilic,hydrophilic,medium,medium,acceptor,donor_and_acceptor,0,0,1
+P04049,RAF1,P,S,261,3CU8,MG,Indirect,Cardiovascular Disease,ClinVar,1,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+P04049,RAF1,N,H,140,1FAR,ZN,Indirect,Not provided,ClinVar,1,hydrophilic,neutral,small,medium,donor_and_acceptor,donor_and_acceptor,1,1,0
+P04049,RAF1,F,S,151,1FAR,ZN,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,very_large,very_small,none,donor_and_acceptor,1,1,1
+P04049,RAF1,H,R,175,1FAR,ZN,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P04049,RAF1,S,T,259,3CU8,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,neutral,very_small,small,donor_and_acceptor,donor_and_acceptor,0,1,0
+P04049,RAF1,S,C,259,3CU8,MG,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,very_small,small,donor_and_acceptor,none,1,1,1
+P04049,RAF1,S,F,259,3CU8,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P04049,RAF1,P,T,261,3CU8,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,neutral,small,small,none,donor_and_acceptor,0,0,1
+P04049,RAF1,P,A,261,3CU8,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,hydrophobic,small,very_small,none,none,1,1,0
+P04049,RAF1,P,R,261,3CU8,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,hydrophilic,small,large,none,donor,1,1,1
+P04049,RAF1,P,L,261,3CU8,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,hydrophobic,small,large,none,none,1,1,0
+P04049,RAF1,S,P,259,3CU8,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,neutral,very_small,small,donor_and_acceptor,none,0,1,1
+P04049,RAF1,G,R,169,1FAR,ZN,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P04275,VWF,R,W,1597,3PPX,NA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+P04275,VWF,V,E,1499,3PPX,NA,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophilic,medium,medium,none,acceptor,1,0,1
+P04637,TP53,S,F,241,1KZY,ZN,Indirect,Gastro-Intestinal disease,ClinVar,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P04637,TP53,R,H,175,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P04637,TP53,M,I,237,1KZY,ZN,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P04637,TP53,S,C,241,1KZY,ZN,Indirect,Gastro-Intestinal disease,ClinVar,1,neutral,hydrophobic,very_small,small,donor_and_acceptor,none,1,1,1
+P04637,TP53,M,T,243,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P04637,TP53,R,L,175,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+P04637,TP53,N,D,239,1KZY,ZN,Indirect,Prostate disease,ClinVar,1,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+P04637,TP53,E,K,180,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P04637,TP53,M,K,237,1KZY,ZN,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P04637,TP53,N,S,239,1KZY,ZN,Indirect,Prostate disease,ClinVar,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P04637,TP53,R,G,175,1KZY,ZN,Indirect,Prostate disease,ClinVar,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+P04637,TP53,S,A,241,1KZY,ZN,Indirect,Prostate disease,ClinVar,1,neutral,hydrophobic,very_small,very_small,donor_and_acceptor,none,1,0,1
+P04637,TP53,N,K,239,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P04637,TP53,P,R,177,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,small,large,none,donor,1,1,1
+P04637,TP53,H,P,178,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,neutral,neutral,medium,small,donor_and_acceptor,none,0,1,1
+P04637,TP53,H,D,178,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,medium,small,donor_and_acceptor,acceptor,1,1,1
+P05089,ARG1,G,R,235,1WVA,MN,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P08235,NR3C2,L,P,979,3VHV,K,Indirect,Muscular disease,ClinVar,1,hydrophobic,neutral,large,small,none,none,1,1,0
+P08253,MMP2,R,H,101,1CK7,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P08253,MMP2,E,K,404,1CK7,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P08842,STS,S,L,341,1P49,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+P0DP23,CALM1,F,L,142,2R28,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P0DP23,CALM1,E,V,140,2R28,CA,Indirect,Not provided,ClinVar,1,hydrophilic,hydrophobic,medium,medium,acceptor,none,1,0,1
+P0DP23,CALM1,G,E,133,2R28,CA,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P10721,KIT,R,G,796,1PKG,MG,Indirect,Hereditary disease,ClinVar,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+P10828,THRB,H,Q,435,1XZX,AS,Indirect,Endocrine System disease,ClinVar,1,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P11362,FGFR1,R,T,627,3GQI,MG,Indirect,Nervous System disease,ClinVar,1,hydrophilic,neutral,large,small,donor,donor_and_acceptor,1,1,1
+P11473,VDR,R,Q,80,1KB2,ZN,Indirect,Metabolic disease,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P12883,MYH7,D,G,906,2FXM,HG,Indirect,Cardiovascular Disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P12883,MYH7,R,H,243,4DB1,MN,Indirect,Cardiovascular Disease,ClinVar,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P12883,MYH7,R,H,904,2FXM,HG,Indirect,Cardiovascular Disease,ClinVar,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P12883,MYH7,R,C,243,4DB1,MN,Indirect,Cardiovascular Disease,ClinVar,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P12883,MYH7,R,C,904,2FXM,HG,Indirect,Cardiovascular Disease,ClinVar,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P12883,MYH7,K,Q,184,4DB1,MN,Indirect,Not provided,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P13569,CFTR,S,F,492,2BBT,MG,Indirect,Gastro-Intestinal disease,ClinVar,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P13716,ALAD,G,R,133,1E51,ZN,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P15882,CHN1,A,V,223,3CXL,ZN,Indirect,Eye Diseases,ClinVar,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P21802,FGFR2,P,R,253,1E0O,NI,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,small,large,none,donor,1,1,1
+P22681,CBL,K,E,382,2Y1M,ZN,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,acceptor,0,1,1
+P22681,CBL,R,Q,420,4A4C,ZN,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P22681,CBL,M,R,400,2Y1M,ZN,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P24752,ACAT1,A,T,380,2IB8,K,Indirect,Metabolic disease,ClinVar,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P24752,ACAT1,S,F,218,2IB8,K,Indirect,Metabolic disease,ClinVar,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P30084,ECHS1,P,L,163,2HW5,MG,Indirect,Metabolic disease,ClinVar,1,neutral,hydrophobic,small,large,none,none,1,1,0
+P30793,GCH1,M,I,211,1FB1,ZN,Indirect,Metabolic disease,ClinVar,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P31939,ATIC,K,R,426,1P4R,K,Indirect,Metabolic disease,ClinVar,1,hydrophilic,hydrophilic,large,large,donor,donor,0,0,0
+P35555,FBN1,N,K,1489,1UZP,SM,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P35555,FBN1,D,Y,2129,1EMN,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P35555,FBN1,G,R,2627,1UZJ,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P35555,FBN1,C,G,129,2W86,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P35555,FBN1,G,E,2627,1UZJ,CA,Indirect,Not provided,ClinVar,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P35555,FBN1,D,G,2168,1EMN,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P35555,FBN1,C,S,2131,1EMN,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P35555,FBN1,C,S,129,2W86,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P35557,GCK,T,P,206,3FGU,MG,Indirect,Metabolic disease,ClinVar,1,neutral,neutral,small,small,donor_and_acceptor,none,0,0,1
+P35914,HMGCL,R,Q,41,2CW6,MG,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P38398,BRCA1,I,V,42,1JM7,ZN,Indirect,Breast disease,ClinVar,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P38398,BRCA1,I,N,26,1JM7,ZN,Indirect,Breast disease,ClinVar,1,hydrophobic,hydrophilic,large,small,none,donor_and_acceptor,1,1,1
+P43403,ZAP70,R,H,465,2OZO,MG,Indirect,Immune system disease,ClinVar,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P43403,ZAP70,R,C,465,2OZO,MG,Indirect,Immune system disease,ClinVar,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P46100,ATRX,A,T,173,3QLA,ZN,Indirect,Not provided,ClinVar,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P46531,NOTCH1,C,Y,456,2VJ3,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P47989,XDH,R,C,149,2E1Q,FE,Indirect,Metabolic disease,ClinVar,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P49747,COMP,C,Y,468,3FBY,CA,Indirect,Muscular disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P49747,COMP,C,R,348,3FBY,CA,Indirect,Muscular disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P49747,COMP,C,Y,371,3FBY,CA,Indirect,Not provided,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P49747,COMP,G,D,501,3FBY,CA,Indirect,Not provided,ClinVar,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P50461,CSRP3,R,Q,122,2O13,ZN,Indirect,Cardiovascular Disease,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P54278,PMS2,S,I,46,1EA6,MG,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+P61769,B2M,M,I,1,3CIQ,CU,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P61769,B2M,M,V,1,3CIQ,CU,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P61769,B2M,M,L,1,3CIQ,CU,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P61769,B2M,M,T,1,3CIQ,CU,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P61769,B2M,M,R,1,3CIQ,CU,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P68400,CSNK2A1,W,R,176,3NSZ,MG,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophilic,very_large,large,donor,donor,1,1,0
+P68871,HBB,L,P,92,2YRS,FE,Indirect,Metabolic disease,ClinVar,1,hydrophobic,neutral,large,small,none,none,1,1,0
+P69905,HBA2,A,V,89,1BZ1,FE,Indirect,Metabolic disease,ClinVar,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P69905,HBA1,A,S,89,1BZ1,FE,Indirect,Metabolic disease,ClinVar,1,hydrophobic,neutral,very_small,very_small,none,donor_and_acceptor,1,0,1
+Q02750,MAP2K1,D,N,67,3EQH,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q03164,KMT2A,R,Q,1154,2J2S,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q03164,KMT2A,R,W,1154,2J2S,ZN,Indirect,Not provided,ClinVar,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+Q03393,PTS,R,Q,25,3I2B,NI,Indirect,Metabolic disease,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q03393,PTS,N,S,52,3I2B,NI,Indirect,Metabolic disease,ClinVar,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+Q03393,PTS,R,G,25,3I2B,NI,Indirect,Metabolic disease,ClinVar,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+Q08209,PPP3CA,E,K,282,3LL8,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q12866,MERTK,R,Q,727,3BRB,MG,Indirect,Eye Diseases,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q12866,MERTK,R,G,727,3BRB,MG,Indirect,Eye Diseases,ClinVar,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+Q13873,BMPR2,V,D,339,3G2F,MG,Indirect,Lung disease,ClinVar,1,hydrophobic,hydrophilic,medium,small,none,acceptor,1,1,1
+Q14376,GALE,L,M,313,1I3L,MG,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q14623,IHH,E,K,131,3N1P,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q14623,IHH,T,N,130,3N1F,CA,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,small,small,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q15465,SHH,D,V,88,3HO5,CA,Indirect,Nervous System disease,ClinVar,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+Q16678,CYP1B1,R,W,469,3PM0,FE,Indirect,Eye Diseases,ClinVar,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+Q7LG56,RRM2B,G,V,229,3HF1,FE,Indirect,Metabolic disease,ClinVar,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+Q7LG56,RRM2B,G,R,195,3HF1,FE,Indirect,Metabolic disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+Q7Z6Z7,HUWE1,G,S,4302,3G1N,NA,Indirect,Hereditary disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+Q86XE5,HOGA1,P,L,190,3S5N,K,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,small,large,none,none,1,1,0
+Q8NI22,MCFD2,I,T,136,3LCP,CA,Indirect,Metabolic disease,ClinVar,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+Q92793,CREBBP,Y,C,1167,3P1D,K,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+Q92793,CREBBP,A,P,1164,3P1D,K,Indirect,Hereditary disease,ClinVar,1,hydrophobic,neutral,very_small,small,none,none,1,1,0
+Q99728,BARD1,T,A,54,1JM7,ZN,Indirect,Breast disease,ClinVar,1,neutral,hydrophobic,small,very_small,donor_and_acceptor,none,1,1,1
+Q99728,BARD1,V,L,85,1JM7,ZN,Indirect,Breast disease,ClinVar,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q9BY41,HDAC8,S,T,199,3F0R,K,Indirect,Not provided,ClinVar,1,neutral,neutral,very_small,small,donor_and_acceptor,donor_and_acceptor,0,1,0
+Q9BY41,HDAC8,D,G,176,1VKG,NA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+Q9GZZ9,UBA5,D,N,304,3H8V,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q9NVV9,THAP1,G,C,9,2L1G,ZN,Indirect,Nervous System disease,ClinVar,1,neutral,hydrophobic,very_small,small,none,none,1,1,0
+Q9UKM7,MAN1B1,E,K,689,1X9D,CA,Indirect,Not provided,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q9Y223,GNE,I,T,587,2YHY,ZN,Indirect,Muscular disease,ClinVar,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+Q9Y6K1,DNMT3A,M,K,548,3A1A,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+O14773,TPP1,Q,H,422,3EE6,ZN,Indirect,Nervous System disease,ClinVar,1,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+O14773,TPP1,Y,S,459,3EE6,ZN,Indirect,Nervous System disease,ClinVar,1,neutral,neutral,very_large,very_small,donor_and_acceptor,donor_and_acceptor,0,1,0
+O60882,MMP20,H,R,204,2JSD,CA,Indirect,Tooth disease,ClinVar,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+O94766,B3GAT3,T,I,198,1FGG,MN,Indirect,Not provided,ClinVar,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+O95630,STAMBP,C,F,311,3RZV,ZN,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P00439,PAH,I,F,283,5PAH,FE,Indirect,Metabolic disease,ClinVar,1,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+P00441,SOD1,G,R,86,3KH3,ZN,Indirect,Nervous System disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P01111,NRAS,T,I,50,3CON,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+P01112,HRAS,Q,K,61,2CL0,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+P01112,HRAS,G,D,60,1K8R,MG,Indirect,Not provided,ClinVar,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P01112,HRAS,Q,R,61,2CL0,MG,Indirect,Nervous System disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+P01112,HRAS,Q,H,61,2CL0,MG,Indirect,Prostate disease,ClinVar,1,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P01112,HRAS,G,V,60,1K8R,MG,Indirect,Not provided,ClinVar,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P01116,KRAS,G,C,12,4DSN,MG,Indirect,Gastro-Intestinal disease,ClinVar,1,neutral,hydrophobic,very_small,small,none,none,1,1,0
+P01116,KRAS,G,R,12,4DSN,MG,Indirect,Metabolic disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P01116,KRAS,G,D,12,4DSN,MG,Indirect,Blood disease,ClinVar,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P01116,KRAS,G,S,12,4DSN,MG,Indirect,Blood disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P01116,KRAS,G,V,12,4DSN,MG,Indirect,Blood disease,ClinVar,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P01116,KRAS,Q,R,61,2CL0,MG,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+P01116,KRAS,Q,H,61,2CL0,MG,Indirect,Blood disease,ClinVar,1,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P01116,KRAS,G,A,12,4DSN,MG,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,very_small,very_small,none,none,1,0,0
+P01116,KRAS,Q,K,61,2CL0,MG,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+P01116,KRAS,L,F,19,4EPR,MG,Indirect,Cardiovascular Disease,ClinVar,1,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+P01116,KRAS,G,V,15,4EPR,MG,Indirect,Not provided,ClinVar,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P01130,LDLR,N,S,316,2W2Q,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P01130,LDLR,C,W,27,1AJJ,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,donor,0,1,1
+P01130,LDLR,D,N,100,2FCW,NA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P01130,LDLR,D,G,100,2FCW,NA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P01130,LDLR,C,R,116,1N7D,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P01130,LDLR,C,F,116,1N7D,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P01130,LDLR,R,C,237,1D2J,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P01130,LDLR,F,S,241,1D2J,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,neutral,very_large,very_small,none,donor_and_acceptor,1,1,1
+P01130,LDLR,C,R,243,1D2J,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P01130,LDLR,N,T,316,2W2Q,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,small,donor_and_acceptor,donor_and_acceptor,1,0,0
+P01130,LDLR,Y,C,336,1N7D,CA,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+P01130,LDLR,D,V,100,2FCW,NA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P01130,LDLR,D,E,100,2FCW,NA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+P01130,LDLR,C,R,27,1AJJ,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P01130,LDLR,F,C,241,1D2J,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophobic,very_large,small,none,none,0,1,0
+P02766,TTR,K,N,90,3GRG,ZN,Indirect,Metabolic disease,ClinVar,1,hydrophilic,hydrophilic,large,small,donor,donor_and_acceptor,0,1,1
+P02766,TTR,F,S,64,3DGD,ZN,Indirect,Metabolic disease,ClinVar,1,hydrophobic,neutral,very_large,very_small,none,donor_and_acceptor,1,1,1
+P02766,TTR,F,L,64,3DGD,ZN,Indirect,Metabolic disease,ClinVar,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P04049,RAF1,N,K,262,3CU8,MG,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P04049,RAF1,N,I,262,3CU8,MG,Indirect,Not provided,ClinVar,1,hydrophilic,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+P04637,TP53,Y,D,236,1KZY,ZN,Indirect,Prostate disease,ClinVar,1,neutral,hydrophilic,very_large,small,donor_and_acceptor,acceptor,1,1,1
+P04637,TP53,R,H,181,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P04637,TP53,R,C,181,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P04637,TP53,Y,H,236,1KZY,ZN,Indirect,Hereditary disease,ClinVar,1,neutral,neutral,very_large,medium,donor_and_acceptor,donor_and_acceptor,0,1,0
+P04637,TP53,G,D,244,1KZY,ZN,Indirect,Gastro-Intestinal disease,ClinVar,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P04637,TP53,G,S,244,1KZY,ZN,Indirect,Gastro-Intestinal disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P0DP23,CALM1,F,L,142,1XFX,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P0DP23,CALM1,T,P,30,2R28,CA,Indirect,Not provided,ClinVar,1,neutral,neutral,small,small,donor_and_acceptor,none,0,0,1
+P11362,FGFR1,I,T,639,3GQI,MG,Indirect,Endocrine System disease,ClinVar,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P11362,FGFR1,G,D,643,3GQI,MG,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P11473,VDR,G,D,46,1KB2,ZN,Indirect,Metabolic disease,ClinVar,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P11511,CYP19A1,R,C,435,3EQM,FE,Indirect,Urogenital disease,ClinVar,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P12883,MYH7,E,K,949,2FXM,HG,Indirect,Cardiovascular Disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P12883,MYH7,F,L,244,4DB1,MN,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P13569,CFTR,L,P,467,2BBT,MG,Indirect,Gastro-Intestinal disease,ClinVar,1,hydrophobic,neutral,large,small,none,none,1,1,0
+P15848,ARSB,L,P,51,1FSU,CA,Indirect,Metabolic disease,ClinVar,1,hydrophobic,neutral,large,small,none,none,1,1,0
+P21802,FGFR2,S,W,252,1E0O,NI,Indirect,Gastro-Intestinal disease,ClinVar,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,donor,1,1,1
+P21802,FGFR2,Q,P,289,1E0O,NI,Indirect,Muscular disease,ClinVar,1,hydrophilic,neutral,medium,small,donor_and_acceptor,none,1,1,1
+P21802,FGFR2,I,K,642,2PZP,MG,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P22033,MUT,R,G,629,2XIJ,CO,Indirect,Not provided,ClinVar,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+P22033,MUT,D,G,625,2XIJ,CO,Indirect,Metabolic disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P22681,CBL,M,R,400,4A4C,ZN,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P24752,ACAT1,G,V,379,2IB8,K,Indirect,Metabolic disease,ClinVar,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P35555,FBN1,C,Y,1502,1UZP,SM,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P35555,FBN1,C,R,1485,1UZP,SM,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P35555,FBN1,C,Y,2142,1EMN,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P35555,FBN1,C,S,1485,1UZP,SM,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P35555,FBN1,C,R,2489,1UZJ,CA,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P35555,FBN1,C,Y,2489,1UZJ,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P35555,FBN1,D,G,2485,1UZJ,CA,Indirect,Not provided,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P35555,FBN1,C,R,2181,1EMN,CA,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P35555,FBN1,C,R,2622,1UZJ,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P35555,FBN1,C,S,2622,1UZJ,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P35555,FBN1,C,G,2489,1UZJ,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P35555,FBN1,C,S,2142,1EMN,CA,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P35555,FBN1,C,Y,1485,1UZP,SM,Indirect,Skin and Connective Tissue disease,ClinVar,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P35557,GCK,E,K,236,3FR0,NA,Indirect,Metabolic disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P38398,BRCA1,T,K,37,1JM7,ZN,Indirect,Breast disease,ClinVar,1,neutral,hydrophilic,small,large,donor_and_acceptor,donor,1,1,1
+P38398,BRCA1,T,R,37,1JM7,ZN,Indirect,Breast disease,ClinVar,1,neutral,hydrophilic,small,large,donor_and_acceptor,donor,1,1,1
+P38398,BRCA1,L,S,22,1JM7,ZN,Indirect,Breast disease,ClinVar,1,hydrophobic,neutral,large,very_small,none,donor_and_acceptor,1,1,1
+P43246,MSH2,G,R,674,2O8E,MG,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P43246,MSH2,G,D,674,2O8E,MG,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P46531,NOTCH1,C,R,429,2VJ3,CA,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P52701,MSH6,G,V,1139,2O8B,MG,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P52732,KIF11,S,C,235,3HQD,MG,Indirect,Muscular disease,ClinVar,1,neutral,hydrophobic,very_small,small,donor_and_acceptor,none,1,1,1
+P54278,PMS2,L,V,47,1EA6,MG,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P55072,VCP,E,K,185,3QQ7,CO,Indirect,Tooth disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P68400,CSNK2A1,G,S,177,3NSZ,MG,Indirect,Hereditary disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P68871,HBB,D,H,95,2YRS,FE,Indirect,Metabolic disease,ClinVar,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+Q02750,MAP2K1,D,N,67,3EQI,NA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q03164,KMT2A,Q,L,1187,2KKF,ZN,Indirect,Not provided,ClinVar,1,hydrophilic,hydrophobic,medium,large,donor_and_acceptor,none,1,1,1
+Q03393,PTS,N,D,47,3I2B,NI,Indirect,Nervous System disease,ClinVar,1,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+Q07812,BAX,G,R,67,3PK1,CD,Indirect,Blood disease,ClinVar,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+Q13586,STIM1,D,G,84,2K60,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+Q13586,STIM1,L,P,74,2K60,CA,Indirect,Immune system disease,ClinVar,1,hydrophobic,neutral,large,small,none,none,1,1,0
+Q13873,BMPR2,L,P,340,3G2F,MG,Indirect,Lung disease,ClinVar,1,hydrophobic,neutral,large,small,none,none,1,1,0
+Q14192,FHL2,V,M,29,2D8Z,ZN,Indirect,Cardiovascular Disease,ClinVar,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q14623,IHH,T,I,154,3N1F,ZN,Indirect,Hereditary disease,ClinVar,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q14623,IHH,R,Q,128,3N1P,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q15382,RHEB,E,V,40,1XTR,MG,Indirect,Nervous System disease,ClinVar,1,hydrophilic,hydrophobic,medium,medium,acceptor,none,1,0,1
+Q8NBK3,SUMF1,Q,R,262,2AIK,CA,Indirect,Hereditary disease,ClinVar,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+Q92793,CREBBP,A,P,1164,3P1F,K,Indirect,Hereditary disease,ClinVar,1,hydrophobic,neutral,very_small,small,none,none,1,1,0
+Q99593,TBX5,F,L,84,2X6V,MG,Indirect,Not provided,ClinVar,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+Q9BY41,HDAC8,D,G,176,3F0R,ZN,Indirect,Hereditary disease,ClinVar,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+Q9BZS1,FOXP3,R,W,397,3QRF,MG,Indirect,Metabolic disease,ClinVar,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+Q9BZS1,FOXP3,R,Q,397,3QRF,MG,Indirect,Not provided,ClinVar,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q9GZT9,EGLN1,P,R,317,3OUJ,FE,Indirect,Metabolic disease,ClinVar,1,neutral,hydrophilic,small,large,none,donor,1,1,1
+Q9NP72,RAB18,L,Q,24,1X3S,MG,Indirect,Hereditary disease,ClinVar,1,hydrophobic,hydrophilic,large,medium,none,donor_and_acceptor,1,1,1
+Q9Y3Z3,SAMHD1,G,S,209,3U1N,ZN,Indirect,Immune system disease,ClinVar,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+Q9BXS1,IDI2,H,Q,51,2PNY,MN,Direct,Aero Digestive Tract disease,CancerResource,1,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P46531,NOTCH1,E,K,415,2VJ3,CA,Direct,Aero Digestive Tract disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q15493,RGN,N,S,154,3G4E,CA,Direct,Aero Digestive Tract disease,CancerResource,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P04637,TP53,C,Y,242,1KZY,ZN,Direct,Aero Digestive Tract disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P04637,TP53,H,R,179,1KZY,ZN,Direct,Aero Digestive Tract disease,CancerResource,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P42684,ABL2,T,K,452,2XYN,NA,Direct,Blood disease,CancerResource,1,neutral,hydrophilic,small,large,donor_and_acceptor,donor,1,1,1
+P21399,ACO1,C,Y,437,2B3Y,FE,Direct,Blood disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q16853,AOC3,E,D,641,3ALA,CA,Direct,Blood disease,CancerResource,1,hydrophilic,hydrophilic,medium,small,acceptor,acceptor,0,1,0
+P61769,B2M,M,K,1,1YDP,CO,Direct,Blood disease,CancerResource,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P61769,B2M,M,I,1,1YDP,CO,Direct,Blood disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P35226,BMI1,C,R,42,2H0D,ZN,Direct,Blood disease,CancerResource,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+O14618,CCS,H,R,155,1DO5,ZN,Direct,Blood disease,CancerResource,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q9Y259,CHKB,N,S,247,3LQ3,MG,Direct,Blood disease,CancerResource,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P49747,COMP,D,N,475,3FBY,CA,Direct,Blood disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q9UH73,EBF1,C,G,170,3LYR,ZN,Direct,Blood disease,CancerResource,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P19367,HK1,L,P,242,1HKB,CA,Direct,Blood disease,CancerResource,1,hydrophobic,neutral,large,small,none,none,1,1,0
+O15550,KDM6A,C,R,1358,3AVR,ZN,Direct,Blood disease,CancerResource,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P01130,LDLR,D,Y,245,1D2J,CA,Direct,Blood disease,CancerResource,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P11226,MBL2,E,D,192,1HUP,CA,Direct,Blood disease,CancerResource,1,hydrophilic,hydrophilic,medium,small,acceptor,acceptor,0,1,0
+P14780,MMP9,G,R,183,1GKC,CA,Direct,Blood disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P29372,MPG,M,I,149,1F4R,NA,Direct,Blood disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P08235,NR3C2,R,W,983,3VHV,K,Direct,Blood disease,CancerResource,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+Q9HBE1,PATZ1,C,R,388,2EPQ,ZN,Direct,Blood disease,CancerResource,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+Q92871,PMM1,D,N,232,2FUC,MG,Direct,Blood disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q8TAI7,RHEBL1,T,A,38,3OES,MG,Direct,Blood disease,CancerResource,1,neutral,hydrophobic,small,very_small,donor_and_acceptor,none,1,1,1
+Q9HB90,RRAGC,T,A,96,3LLU,MG,Direct,Blood disease,CancerResource,1,neutral,hydrophobic,small,very_small,donor_and_acceptor,none,1,1,1
+P35442,THBS2,D,G,825,2RHP,CA,Direct,Blood disease,CancerResource,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P21580,TNFAIP3,C,Y,627,3OJ3,ZN,Direct,Blood disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P63316,TNNC1,D,N,113,2L98,CA,Direct,Blood disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P04637,TP53,C,Y,238,1KZY,ZN,Direct,Blood disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P0CG48,UBC,D,N,21,3H7P,CD,Direct,Blood disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q96LB9,PGLYRP3,V,M,319,1SK4,NA,Direct,Muscular disease,CancerResource,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P04637,TP53,C,F,176,1KZY,ZN,Direct,Muscular disease,CancerResource,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P04637,TP53,H,Q,179,1KZY,ZN,Direct,Muscular disease,CancerResource,1,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q969Q1,TRIM63,C,Y,23,2D8U,ZN,Direct,Muscular disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P42684,ABL2,T,A,452,2XYN,NA,Direct,Breast disease,CancerResource,1,neutral,hydrophobic,small,very_small,donor_and_acceptor,none,1,1,1
+P49747,COMP,D,N,471,3FBY,CA,Direct,Breast disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P27707,DCK,N,D,60,2A30,CA,Direct,Breast disease,CancerResource,1,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+Q9Y2W7,KCNIP3,D,Y,179,2E6W,CA,Direct,Breast disease,CancerResource,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P61586,RHOA,T,K,19,1S1C,MG,Direct,Breast disease,CancerResource,1,neutral,hydrophilic,small,large,donor_and_acceptor,donor,1,1,1
+O43791,SPOP,E,D,160,3IVB,ZN,Direct,Breast disease,CancerResource,1,hydrophilic,hydrophilic,medium,small,acceptor,acceptor,0,1,0
+Q9UKE5,TNIK,S,F,77,2X7F,NA,Direct,Breast disease,CancerResource,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+Q9H3S4,TPK1,D,N,100,3S4Y,CA,Direct,Breast disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q8TB52,FBXO30,H,R,49,2YRE,ZN,Direct,Nervous System disease,CancerResource,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P04637,TP53,C,F,242,1KZY,ZN,Direct,Nervous System disease,CancerResource,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P08758,ANXA5,E,K,72,1HVD,CA,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P27482,CALML3,E,K,140,1GGZ,CA,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q14117,DPYS,D,G,326,2VR2,ZN,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+Q12866,MERTK,L,M,688,3BPR,NA,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q96LB9,PGLYRP3,S,N,317,1SK4,NA,Direct,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophilic,very_small,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+Q96PM5,RCHY1,C,W,75,2K2C,ZN,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophobic,small,very_large,none,donor,0,1,1
+Q9NRG4,SMYD2,C,Y,267,3RIB,ZN,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q9Y275,TNFSF13B,Q,P,234,1OSG,MG,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophilic,neutral,medium,small,donor_and_acceptor,none,1,1,1
+P17752,TPH1,H,R,272,1MLW,FE,Direct,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P47989,XDH,C,Y,48,2E1Q,FE,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P49747,COMP,D,V,469,3FBY,CA,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P08253,MMP2,D,N,180,1EAK,ZN,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q16647,PTGIS,C,Y,441,2IAG,FE,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q99496,RNF2,C,Y,75,2H0D,ZN,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P35442,THBS2,R,W,928,1YO8,CA,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+O75173,ADAMTS4,D,N,328,3B2Z,ZN,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P09238,MMP10,G,D,175,1Q3A,CA,Direct,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+Q8IYW5,RNF168,H,Q,33,3L11,ZN,Direct,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q15059,BRD3,T,N,36,2NXB,NA,Direct,Kidney disease,CancerResource,1,neutral,hydrophilic,small,small,donor_and_acceptor,donor_and_acceptor,1,0,0
+P03956,MMP1,D,E,170,1CGE,ZN,Direct,Liver disease,CancerResource,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+O75173,ADAMTS4,H,N,365,3B2Z,ZN,Direct,Lung disease,CancerResource,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P61769,B2M,M,V,1,1YDP,CO,Direct,Lung disease,CancerResource,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+Q13489,BIRC3,C,F,560,3EB5,ZN,Direct,Lung disease,CancerResource,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P00918,CA2,E,V,204,1LUG,HG,Direct,Lung disease,CancerResource,1,hydrophilic,hydrophobic,medium,medium,acceptor,none,1,0,1
+P00918,CA2,H,Y,64,1Z9Y,ZN,Direct,Lung disease,CancerResource,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+Q9NNX6,CD209,N,I,365,1K9I,CA,Direct,Lung disease,CancerResource,1,hydrophilic,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q9H2X3,CLEC4M,D,H,384,1SL6,CA,Direct,Lung disease,CancerResource,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+Q16696,CYP2A13,C,Y,439,3T3S,FE,Direct,Lung disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q9NPF5,DMAP1,D,E,168,3HM5,CA,Direct,Lung disease,CancerResource,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+Q9UQ84,EXO1,D,H,173,3QEB,MN,Direct,Lung disease,CancerResource,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P35555,FBN1,S,I,2628,1UZJ,CA,Direct,Lung disease,CancerResource,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+Q13255,GRM1,I,N,89,3KS9,MG,Direct,Lung disease,CancerResource,1,hydrophobic,hydrophilic,large,small,none,donor_and_acceptor,1,1,1
+Q9BY41,HDAC8,D,Y,87,3F07,ZN,Direct,Lung disease,CancerResource,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P35914,HMGCL,H,R,235,2CW6,MG,Direct,Lung disease,CancerResource,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P39900,MMP12,E,K,201,1OS9,CA,Direct,Lung disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P51512,MMP16,H,N,221,1RM8,ZN,Direct,Lung disease,CancerResource,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P08253,MMP2,A,T,571,1GEN,NA,Direct,Lung disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+O60882,MMP20,D,Y,183,2JSD,CA,Direct,Lung disease,CancerResource,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+O75340,PDCD6,E,Q,47,2ZN9,CA,Direct,Lung disease,CancerResource,1,hydrophilic,hydrophilic,medium,medium,acceptor,donor_and_acceptor,0,0,1
+Q01970,PLCB3,E,D,413,3OHM,CA,Direct,Lung disease,CancerResource,1,hydrophilic,hydrophilic,medium,small,acceptor,acceptor,0,1,0
+P06703,S100A6,D,H,61,1K96,CA,Direct,Lung disease,CancerResource,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P35442,THBS2,N,K,612,1YO8,CA,Direct,Lung disease,CancerResource,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P04637,TP53,C,W,242,1KZY,ZN,Direct,Lung disease,CancerResource,1,hydrophobic,hydrophobic,small,very_large,none,donor,0,1,1
+P04637,TP53,C,W,176,1KZY,ZN,Direct,Lung disease,CancerResource,1,hydrophobic,hydrophobic,small,very_large,none,donor,0,1,1
+P04637,TP53,C,Y,176,1KZY,ZN,Direct,Lung disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q9NZL3,ZNF224,C,F,458,2EQ4,ZN,Direct,Lung disease,CancerResource,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P22681,CBL,C,R,384,2Y1M,ZN,Direct,Nervous System disease,CancerResource,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P06746,POLB,V,L,65,3JPR,NA,Direct,Nervous System disease,CancerResource,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q9H2H8,PPIL3,H,P,6,2OK3,NI,Direct,Nervous System disease,CancerResource,1,neutral,neutral,medium,small,donor_and_acceptor,none,0,1,1
+P09238,MMP10,D,G,193,1Q3A,CA,Direct,Pancreas disease,CancerResource,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P04637,TP53,C,R,242,1KZY,ZN,Direct,Pancreas disease,CancerResource,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P09238,MMP10,D,V,157,1Q3A,CA,Direct,Prostate disease,CancerResource,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P46531,NOTCH1,V,I,453,2VJ3,CA,Direct,Prostate disease,CancerResource,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+O14786,NRP1,A,V,252,2QQM,CA,Direct,Prostate disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q99496,RNF2,C,F,75,2H0D,ZN,Direct,Prostate disease,CancerResource,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+Q9UNA0,ADAMTS5,D,N,360,3LJT,CA,Direct,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q14117,DPYS,H,N,192,2VR2,ZN,Direct,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+O43252,PAPSS1,T,S,66,2OFW,MG,Direct,Skin and Connective Tissue disease,CancerResource,1,neutral,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,0,1,0
+Q96LB9,PGLYRP3,S,F,324,1SK4,NA,Direct,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+O75688,PPM1B,D,E,243,2P8E,MG,Direct,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+Q9H2X3,CLEC4M,D,N,332,1SL6,CA,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q9UDY8,MALT1,E,K,388,3UOA,MG,Direct,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q03393,PTS,H,N,49,3I2B,NI,Direct,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+O15550,KDM6A,C,Y,1361,3AVR,ZN,Direct,Urinary Tract disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q9HAU4,SMURF2,T,I,676,1ZVD,NA,Direct,Urinary Tract disease,CancerResource,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q6P587,FAHD1,E,K,71,1SAW,MG,Direct,Urogenital disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P09238,MMP10,D,H,174,1Q3A,CA,Direct,Urogenital disease,CancerResource,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+O00167,EYA2,E,K,277,3HB0,MG,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+O00482,NR5A2,I,M,123,2A66,ZN,Indirect,Breast disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+O00482,NR5A2,Y,C,140,2A66,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+O14618,CCS,R,C,165,1DO5,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+O14815,CAPN9,D,N,313,2P0R,CA,Indirect,Muscular disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+O14964,HGS,R,W,170,3ZYQ,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+O14965,AURKA,Y,H,246,2J4Z,AS,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,neutral,very_large,medium,donor_and_acceptor,donor_and_acceptor,0,1,0
+O15350,TP73,R,P,193,3VD0,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,neutral,large,small,donor,none,1,1,1
+O15550,KDM6A,G,W,1321,3AVS,NI,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,very_small,very_large,none,donor,1,1,1
+O15550,KDM6A,E,K,1102,3AVS,NI,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+O43639,NCK2,R,W,126,4E6R,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+O60494,CUBN,L,F,1095,3KQ4,CA,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+O60882,MMP20,G,E,201,2JSD,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+O75164,KDM4A,R,T,309,2WWJ,ZN,Indirect,Urogenital disease,CancerResource,1,hydrophilic,neutral,large,small,donor,donor_and_acceptor,1,1,1
+O75164,KDM4A,T,S,189,2OS2,NI,Indirect,Lung disease,CancerResource,1,neutral,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,0,1,0
+O75173,ADAMTS4,D,N,328,2RJP,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+O94972,TRIM37,S,R,38,3LRQ,ZN,Indirect,Breast disease,CancerResource,1,neutral,hydrophilic,very_small,large,donor_and_acceptor,donor,1,1,1
+O95045,UPP2,T,S,213,3P0F,CO,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,0,1,0
+O95218,ZRANB2,Q,R,70,2K1P,ZN,Indirect,Prostate disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+O95218,ZRANB2,E,K,84,2K1P,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+O95630,STAMBP,R,H,391,3RZU,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+O95639,CPSF4,E,V,109,2RHK,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,medium,medium,acceptor,none,1,0,1
+O95639,CPSF4,E,A,87,2D9N,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,medium,very_small,acceptor,none,1,1,1
+P00918,CA2,F,V,95,1TE3,ZN,Indirect,Pancreas disease,CancerResource,1,hydrophobic,hydrophobic,very_large,medium,none,none,0,1,0
+P00918,CA2,G,C,63,1Z9Y,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,very_small,small,none,none,1,1,0
+P00918,CA2,N,S,61,1Z9Y,ZN,Indirect,Urogenital disease,CancerResource,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P01112,HRAS,R,Q,164,1ZW6,MG,Indirect,Muscular disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P01116,KRAS,Q,L,61,4DSN,MG,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,medium,large,donor_and_acceptor,none,1,1,1
+P01116,KRAS,R,I,97,4DSN,MG,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+P02751,FN1,R,C,534,3M7P,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P02751,FN1,C,R,308,3M7P,ZN,Indirect,Breast disease,CancerResource,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P02792,FTL,R,M,154,3KXU,CD,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+P02795,MT2A,G,D,47,1MHU,CD,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P03372,ESR1,R,L,241,4AA6,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+P03956,MMP1,A,V,286,1SU3,NA,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P03956,MMP1,D,E,170,2CLT,CA,Indirect,Liver disease,CancerResource,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+P03956,MMP1,A,V,286,1SU3,CA,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P04049,RAF1,S,F,259,3CU8,MG,Indirect,Nervous System disease,CancerResource,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P04637,TP53,M,I,237,1KZY,ZN,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P04637,TP53,M,K,237,1KZY,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P04637,TP53,N,D,239,1KZY,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+P04637,TP53,S,C,241,1KZY,ZN,Indirect,Breast disease,CancerResource,1,neutral,hydrophobic,very_small,small,donor_and_acceptor,none,1,1,1
+P04637,TP53,S,F,241,1KZY,ZN,Indirect,Nervous System disease,CancerResource,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P04637,TP53,S,Y,241,1KZY,ZN,Indirect,Urogenital disease,CancerResource,1,neutral,neutral,very_small,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P04637,TP53,P,S,177,1KZY,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+P04637,TP53,R,L,175,1KZY,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+P04637,TP53,R,H,175,1KZY,ZN,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P04637,TP53,R,P,267,2J1Y,CA,Indirect,Lung disease,CancerResource,1,hydrophilic,neutral,large,small,donor,none,1,1,1
+P04637,TP53,R,L,267,2J1Y,CA,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+P04637,TP53,R,W,267,2J1Y,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+P05067,APP,H,Y,388,3UMH,CD,Indirect,Blood disease,CancerResource,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P05067,APP,G,S,169,2FK3,CU,Indirect,Blood disease,CancerResource,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P06401,PGR,A,V,621,2C7A,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P06401,PGR,I,F,569,2C7A,ZN,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+P06702,S100A9,P,Q,29,1XK4,CA,Indirect,Blood disease,CancerResource,1,neutral,hydrophilic,small,medium,none,donor_and_acceptor,1,1,1
+P07358,C8B,G,E,97,3OJY,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P08134,RHOC,P,H,36,2GCO,MG,Indirect,Lung disease,CancerResource,1,neutral,neutral,small,medium,none,donor_and_acceptor,0,1,1
+P08648,ITGA5,Q,H,240,3VI3,CA,Indirect,Breast disease,CancerResource,1,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P08758,ANXA5,A,P,99,1HVD,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,none,1,1,0
+P10109,FDX1,E,K,107,3P1M,FE,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P14780,MMP9,A,T,191,2OW1,ZN,Indirect,Urogenital disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P14780,MMP9,A,T,202,2OW1,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P14780,MMP9,A,T,202,2OVX,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P19623,SRM,P,L,92,2O06,MG,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,small,large,none,none,1,1,0
+P22681,CBL,R,Q,420,4A4C,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P22681,CBL,S,F,403,2Y1M,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P23467,PTPRB,T,A,1742,2AHS,NA,Indirect,Ovarian disease,CancerResource,1,neutral,hydrophobic,small,very_small,donor_and_acceptor,none,1,1,1
+P25490,YY1,A,D,297,1UBD,ZN,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophilic,very_small,small,none,acceptor,1,1,1
+P25791,LMO2,G,S,32,2XJY,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P27487,DPP4,R,C,669,1NU6,HG,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P29375,KDM5A,D,N,1629,3GL6,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P30084,ECHS1,P,L,163,2HW5,MG,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,small,large,none,none,1,1,0
+P30613,PKLR,H,R,121,2VGG,K,Indirect,Blood disease,CancerResource,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P31948,STIP1,Y,C,248,3FWV,NI,Indirect,Blood disease,CancerResource,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+P32754,HPD,D,N,182,3ISQ,CO,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P35442,THBS2,G,S,699,1YO8,CA,Indirect,Blood disease,CancerResource,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P35442,THBS2,I,T,803,2RHP,CA,Indirect,Muscular disease,CancerResource,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P35442,THBS2,L,P,840,2RHP,CA,Indirect,Blood disease,CancerResource,1,hydrophobic,neutral,large,small,none,none,1,1,0
+P35442,THBS2,G,S,748,1YO8,CA,Indirect,Aero Digestive Tract disease,CancerResource,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P35442,THBS2,E,K,729,1YO8,CA,Indirect,Nervous System disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P39900,MMP12,I,V,159,3LKA,CA,Indirect,Pancreas disease,CancerResource,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P39900,MMP12,A,S,157,3LKA,CA,Indirect,Lung disease,CancerResource,1,hydrophobic,neutral,very_small,very_small,none,donor_and_acceptor,1,0,1
+P39900,MMP12,P,T,90,1JIZ,CA,Indirect,Nervous System disease,CancerResource,1,neutral,neutral,small,small,none,donor_and_acceptor,0,0,1
+P39900,MMP12,A,V,290,3BA0,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P41594,GRM5,R,K,78,3LMK,MG,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,hydrophilic,large,large,donor,donor,0,0,0
+P46100,ATRX,T,I,172,3QLA,ZN,Indirect,Aero Digestive Tract disease,CancerResource,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+P46976,GYG1,M,T,101,3T7M,MN,Indirect,Breast disease,CancerResource,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P46976,GYG1,M,V,101,3T7M,MN,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P47712,PLA2G4A,P,H,44,1BCI,CA,Indirect,Blood disease,CancerResource,1,neutral,neutral,small,medium,none,donor_and_acceptor,0,1,1
+P47712,PLA2G4A,P,S,44,1BCI,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+P47989,XDH,T,P,807,2E1Q,CA,Indirect,Blood disease,CancerResource,1,neutral,neutral,small,small,donor_and_acceptor,none,0,0,1
+P47989,XDH,R,L,149,2E1Q,FE,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+P47989,XDH,Q,H,112,2E1Q,FE,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P49643,PRIM2,M,V,288,3L9Q,FE,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P49747,COMP,R,W,379,3FBY,CA,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+P49747,COMP,R,C,381,3FBY,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P49959,MRE11,E,K,248,3T1I,MN,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P50281,MMP14,G,S,187,1BUV,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P52594,AGFG1,F,I,30,2OLM,ZN,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P62166,NCS1,Q,H,167,2LCP,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P63000,RAC1,N,S,39,2P2L,ZN,Indirect,Breast disease,CancerResource,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P63272,SUPT4H1,N,K,35,3H7H,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P63316,TNNC1,G,R,140,1J1E,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P67870,CSNK2B,K,N,139,4DGL,ZN,Indirect,Prostate disease,CancerResource,1,hydrophilic,hydrophilic,large,small,donor,donor_and_acceptor,0,1,1
+P78536,ADAM17,Y,H,390,2DDF,CA,Indirect,Blood disease,CancerResource,1,neutral,neutral,very_large,medium,donor_and_acceptor,donor_and_acceptor,0,1,0
+P78540,ARG2,A,D,146,1PQ3,MN,Indirect,Nervous System disease,CancerResource,1,hydrophobic,hydrophilic,very_small,small,none,acceptor,1,1,1
+Q01415,GALK2,L,R,210,2A2C,NA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+Q01415,GALK2,P,T,209,2A2C,NA,Indirect,Liver disease,CancerResource,1,neutral,neutral,small,small,none,donor_and_acceptor,0,0,1
+Q01970,PLCB3,V,M,361,3OHM,CA,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q02750,MAP2K1,D,N,67,3EQH,CA,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q03154,ACY1,T,M,81,1Q7L,ZN,Indirect,Aero Digestive Tract disease,CancerResource,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q04912,MST1R,R,Q,1212,3PLS,MG,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q05193,DNM1,R,Q,66,3ZYC,MG,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q09472,EP300,Q,R,1797,3IO2,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+Q12778,FOXO1,L,P,219,3COA,CA,Indirect,Blood disease,CancerResource,1,hydrophobic,neutral,large,small,none,none,1,1,0
+Q13105,ZBTB17,S,G,7,3M52,ZN,Indirect,Aero Digestive Tract disease,CancerResource,1,neutral,neutral,very_small,very_small,donor_and_acceptor,none,0,0,1
+Q13191,CBLB,R,H,412,2LDR,ZN,Indirect,Urogenital disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q13370,PDE3B,L,V,969,1SO2,MG,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+Q13490,BIRC2,K,R,305,3T6P,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,large,large,donor,donor,0,0,0
+Q13586,STIM1,V,A,83,2K60,CA,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,medium,very_small,none,none,0,1,0
+Q13643,FHL3,R,C,67,2CUQ,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+Q13643,FHL3,R,H,67,2CUQ,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q13643,FHL3,F,C,66,2CUQ,ZN,Indirect,Nervous System disease,CancerResource,1,hydrophobic,hydrophobic,very_large,small,none,none,0,1,0
+Q13643,FHL3,R,C,17,2EHE,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+Q13643,FHL3,Y,C,19,2EHE,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+Q14653,IRF3,D,E,95,3QU6,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+Q15075,EEA1,H,R,1373,1JOC,ZN,Indirect,Nervous System disease,CancerResource,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q15493,RGN,G,R,205,3G4E,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+Q15649,ZNHIT3,F,L,35,2YQQ,ZN,Indirect,Breast disease,CancerResource,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+Q16878,CDO1,R,Q,141,2IC1,FE,Indirect,Breast disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q53H82,LACTB2,T,P,146,4AD9,ZN,Indirect,Blood disease,CancerResource,1,neutral,neutral,small,small,donor_and_acceptor,none,0,0,1
+Q5SRE7,PHYHD1,R,Q,157,3OBZ,FE,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q5T4F4,ZFYVE27,L,F,71,1X4U,ZN,Indirect,Prostate disease,CancerResource,1,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+Q5T4F4,ZFYVE27,P,A,70,1X4U,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,small,very_small,none,none,1,1,0
+Q6NS38,ALKBH2,Y,H,235,3BU0,MN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,neutral,very_large,medium,donor_and_acceptor,donor_and_acceptor,0,1,0
+Q7L1T6,CYB5R4,R,C,113,3LF5,FE,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+Q7Z4H3,HDDC2,C,Y,82,4DMB,MG,Indirect,Nervous System disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q86WV6,TMEM173,E,Q,340,4EF4,CA,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,medium,medium,acceptor,donor_and_acceptor,0,0,1
+Q8IW19,APLF,F,I,393,2KQB,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+Q8IWV7,UBR1,R,H,137,3NY1,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q8N6H7,ARFGAP2,F,L,27,2P57,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+Q8NBP7,PCSK9,R,H,357,3H42,NA,Indirect,Pancreas disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q8TB52,FBXO30,L,S,52,2YRE,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophobic,neutral,large,very_small,none,donor_and_acceptor,1,1,1
+Q8TDY4,ASAP3,Q,R,463,2B0O,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+Q8WYH8,ING5,V,F,233,3C6W,ZN,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,medium,very_large,none,none,0,1,0
+Q92793,CREBBP,Y,C,1167,3P1D,K,Indirect,Nervous System disease,CancerResource,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+Q92793,CREBBP,H,Y,1804,2KJE,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+Q92871,PMM1,R,Q,234,2FUC,MG,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q92900,UPF1,L,F,160,2WJV,ZN,Indirect,Nervous System disease,CancerResource,1,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+Q92900,UPF1,R,H,811,2XZO,MG,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q93009,USP7,V,F,189,1YY6,NA,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,medium,very_large,none,none,0,1,0
+Q93009,USP7,D,V,198,1YY6,NA,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+Q96BT7,ALKBH8,V,D,348,3THP,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophilic,medium,small,none,acceptor,1,1,1
+Q96BT7,ALKBH8,P,T,340,3THP,ZN,Indirect,Nervous System disease,CancerResource,1,neutral,neutral,small,small,none,donor_and_acceptor,0,0,1
+Q96DE0,NUDT16,E,K,79,2XSQ,MG,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q96HU8,DIRAS2,P,L,38,2ERX,MG,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,small,large,none,none,1,1,0
+Q96KN2,CNDP1,R,P,140,3DLJ,ZN,Indirect,Muscular disease,CancerResource,1,hydrophilic,neutral,large,small,donor,none,1,1,1
+Q96KQ7,EHMT2,G,S,988,2O8J,ZN,Indirect,Breast disease,CancerResource,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+Q96LB8,PGLYRP4,K,Q,372,2EAV,NI,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q96LB9,PGLYRP3,L,M,291,1SK3,NI,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q96PM5,RCHY1,G,V,106,2K2C,ZN,Indirect,Blood disease,CancerResource,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+Q96PM5,RCHY1,R,H,54,2JRJ,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q99496,RNF2,S,I,224,3GS2,ZN,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+Q9C0B1,FTO,Q,H,306,3LFM,FE,Indirect,Blood disease,CancerResource,1,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q9H0M4,ZCWPW1,D,A,297,2RR4,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,small,very_small,acceptor,none,1,1,1
+Q9H0M4,ZCWPW1,K,N,57,2E+61,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,large,small,donor,donor_and_acceptor,0,1,1
+Q9H3S4,TPK1,A,T,45,3S4Y,CA,Indirect,Nervous System disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+Q9H7B4,SMYD3,R,H,66,3QWP,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q9NNX6,CD209,P,A,348,1K9I,CA,Indirect,Nervous System disease,CancerResource,1,neutral,hydrophobic,small,very_small,none,none,1,1,0
+Q9NQW7,XPNPEP1,T,I,425,3CTZ,MN,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q9NR56,MBNL1,R,P,186,3D2S,ZN,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,neutral,large,small,donor,none,1,1,1
+Q9NUV9,GIMAP4,K,E,43,3LXX,MG,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,acceptor,0,1,1
+Q9NXS2,QPCTL,A,V,227,3PB7,ZN,Indirect,Urinary Tract disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q9NZD2,GLTP,S,F,28,3S0K,NI,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+Q9UBL3,ASH2L,G,V,118,3S32,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+Q9UBL3,ASH2L,H,L,151,3S32,ZN,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,medium,large,donor_and_acceptor,none,1,1,1
+Q9UBZ9,REV1,A,V,572,3GQC,MG,Indirect,Breast disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q9UGI8,TES,V,M,348,2XQN,ZN,Indirect,Ovarian disease,CancerResource,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q9UGP5,POLL,L,M,489,2PFQ,MN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q9UH73,EBF1,R,H,163,3LYR,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q9UJW3,DNMT3L,G,R,109,2PV0,ZN,Indirect,Lung disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+Q9UKK9,NUDT5,E,D,115,3ACA,MN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,medium,small,acceptor,acceptor,0,1,0
+Q9ULD4,BRPF3,R,Q,1085,3PFS,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q9Y233,PDE10A,A,V,520,3SN7,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q9Y3Q0,NAALAD2,R,Q,368,3FEE,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q9Y3Y4,PYGO1,P,S,342,2VPB,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+Q9Y5K5,UCHL5,L,R,74,3IHR,NA,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+Q9Y5W5,WIF1,R,Q,187,2YGO,NA,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q9Y692,GMEB1,Q,K,169,1OQJ,ZN,Indirect,Ovarian disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+Q9Y6U3,SCIN,K,N,667,3FG6,CA,Indirect,Nervous System disease,CancerResource,1,hydrophilic,hydrophilic,large,small,donor,donor_and_acceptor,0,1,1
+Q9Y6U3,SCIN,L,V,450,3FG6,CA,Indirect,Ovarian disease,CancerResource,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+O00180,KCNK1,D,V,230,3UKM,K,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+O00482,NR5A2,L,V,101,2A66,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+O14727,APAF1,Y,F,80,1CY5,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,very_large,very_large,donor_and_acceptor,none,1,0,1
+O15350,TP73,G,W,264,3VD0,ZN,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,very_small,very_large,none,donor,1,1,1
+O60494,CUBN,G,V,1267,3KQ4,CA,Indirect,Metabolic disease,CancerResource,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+O60494,CUBN,H,R,982,3KQ4,CA,Indirect,Blood disease,CancerResource,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+O75173,ADAMTS4,G,R,421,3B2Z,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+O75581,LRP6,I,V,119,3SOQ,CA,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+O75936,BBOX1,S,R,200,3MS5,NI,Indirect,Nervous System disease,CancerResource,1,neutral,hydrophilic,very_small,large,donor_and_acceptor,donor,1,1,1
+O95166,GABARAP,R,Q,67,1GNU,NI,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+O95486,SEC24A,R,Q,457,3EGD,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P01112,HRAS,R,Q,164,2UZI,ZN,Indirect,Muscular disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P01112,HRAS,Q,L,61,2CL0,MG,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,hydrophobic,medium,large,donor_and_acceptor,none,1,1,1
+P01116,KRAS,L,F,19,4EPR,MG,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+P01116,KRAS,G,C,12,4DSN,MG,Indirect,Aero Digestive Tract disease,CancerResource,1,neutral,hydrophobic,very_small,small,none,none,1,1,0
+P01116,KRAS,G,V,12,4DSN,MG,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P01116,KRAS,G,A,12,4DSN,MG,Indirect,Blood disease,CancerResource,1,neutral,hydrophobic,very_small,very_small,none,none,1,0,0
+P01116,KRAS,G,R,12,4DSN,MG,Indirect,Pancreas disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P01116,KRAS,G,S,12,4DSN,MG,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P01116,KRAS,G,D,12,4DSN,MG,Indirect,Liver disease,CancerResource,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P04049,RAF1,K,T,171,1FAR,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,neutral,large,small,donor,donor_and_acceptor,1,1,1
+P04637,TP53,Y,C,236,1KZY,ZN,Indirect,Blood disease,CancerResource,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+P04637,TP53,G,A,244,1KZY,ZN,Indirect,Liver disease,CancerResource,1,neutral,hydrophobic,very_small,very_small,none,none,1,0,0
+P04637,TP53,G,C,244,1KZY,ZN,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,very_small,small,none,none,1,1,0
+P04637,TP53,G,D,244,1KZY,ZN,Indirect,Blood disease,CancerResource,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P04637,TP53,G,S,244,1KZY,ZN,Indirect,Breast disease,CancerResource,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P04637,TP53,G,E,266,2J1Y,CA,Indirect,Blood disease,CancerResource,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P04637,TP53,G,V,266,2J1Y,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P04637,TP53,G,R,266,2J1Y,CA,Indirect,Aero Digestive Tract disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P05129,PRKCG,E,K,79,2E+73,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P05177,CYP1A2,R,H,456,2HI4,FE,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P07992,ERCC1,S,I,135,2A1I,HG,Indirect,Blood disease,CancerResource,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+P07996,THBS1,F,L,1003,1UX6,CA,Indirect,Nervous System disease,CancerResource,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P07996,THBS1,D,N,924,1UX6,CA,Indirect,Urinary Tract disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P07996,THBS1,A,V,893,1UX6,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P07996,THBS1,C,Y,910,1UX6,CA,Indirect,Blood disease,CancerResource,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P08253,MMP2,I,L,128,1HOV,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P08253,MMP2,M,V,170,1CK7,CA,Indirect,Ovarian disease,CancerResource,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P08253,MMP2,A,T,571,1RTG,CA,Indirect,Lung disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P08253,MMP2,D,N,180,1GXD,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P08263,GSTA1,G,S,150,1USB,K,Indirect,Aero Digestive Tract disease,CancerResource,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P08319,ADH4,P,S,97,3COS,ZN,Indirect,Lung disease,CancerResource,1,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+P09234,SNRPC,K,N,22,2VRD,ZN,Indirect,Breast disease,CancerResource,1,hydrophilic,hydrophilic,large,small,donor,donor_and_acceptor,0,1,1
+P09238,MMP10,D,G,193,1Q3A,ZN,Indirect,Pancreas disease,CancerResource,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P09238,MMP10,Y,C,171,1Q3A,ZN,Indirect,Blood disease,CancerResource,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+P0CE72,OCM,G,E,99,1TTX,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P10828,THRB,A,D,436,1XZX,AS,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophilic,very_small,small,none,acceptor,1,1,1
+P11473,VDR,R,W,22,1KB2,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+P11473,VDR,R,C,274,1KB6,ZN,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P11473,VDR,G,R,64,1KB2,ZN,Indirect,Lung disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P11511,CYP19A1,R,C,435,3EQM,FE,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P13612,ITGA4,R,H,406,3V4P,CA,Indirect,Nervous System disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P14735,IDE,L,I,114,3H44,ZN,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P14780,MMP9,A,V,399,2OVZ,ZN,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P15104,GLUL,Q,H,205,2QC8,MN,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P16473,TSHR,E,Q,61,3G04,ZN,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,hydrophilic,medium,medium,acceptor,donor_and_acceptor,0,0,1
+P17655,CAPN2,C,F,301,2NQA,CA,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P18054,ALOX12,A,T,542,3D3L,FE,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P21673,SAT1,G,S,118,2FXF,CA,Indirect,Nervous System disease,CancerResource,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P23193,TCEA1,K,R,199,3NDQ,NA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,large,large,donor,donor,0,0,0
+P25490,YY1,G,R,379,1UBD,ZN,Indirect,Blood disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P25713,MT3,K,R,47,2F5H,CD,Indirect,Ovarian disease,CancerResource,1,hydrophilic,hydrophilic,large,large,donor,donor,0,0,0
+P26447,S100A4,F,V,72,3C1V,CA,Indirect,Nervous System disease,CancerResource,1,hydrophobic,hydrophobic,very_large,medium,none,none,0,1,0
+P28827,PTPRM,V,M,175,2C9A,NA,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P29372,MPG,M,L,151,1F4R,NA,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P29372,MPG,R,Q,147,1F4R,NA,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P35442,THBS2,D,G,833,2RHP,CA,Indirect,Nervous System disease,CancerResource,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P35557,GCK,V,E,207,3FGU,MG,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophilic,medium,medium,none,acceptor,1,0,1
+P37268,FDFT1,I,M,345,3VJ9,NI,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P39900,MMP12,G,C,331,3BA0,CA,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,very_small,small,none,none,1,1,0
+P41208,CETN2,S,L,122,2GGM,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+P41594,GRM5,N,K,88,3LMK,MG,Indirect,Nervous System disease,CancerResource,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P42892,ECE1,I,T,669,3DWB,ZN,Indirect,Kidney disease,CancerResource,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P45877,PPIC,T,I,66,2ESL,CA,Indirect,Blood disease,CancerResource,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+P45877,PPIC,I,T,176,2ESL,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P46100,ATRX,L,F,195,3QLA,ZN,Indirect,Urogenital disease,CancerResource,1,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+P46531,NOTCH1,C,F,429,2VJ3,CA,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P46952,HAAO,E,K,49,2QNK,NI,Indirect,Nervous System disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P47974,ZFP36L2,T,I,199,1RGO,ZN,Indirect,Blood disease,CancerResource,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+P47974,ZFP36L2,F,L,176,1RGO,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P47989,XDH,G,C,739,2E1Q,CA,Indirect,Nervous System disease,CancerResource,1,neutral,hydrophobic,very_small,small,none,none,1,1,0
+P48059,LIMS1,R,C,12,1G47,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P49137,MAPKAPK2,A,T,201,1KWP,HG,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P49747,COMP,D,Y,394,3FBY,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P49789,FHIT,H,R,94,6FIT,W,Indirect,Ovarian disease,CancerResource,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P49862,KLK7,G,R,39,2QXJ,CU,Indirect,Lung disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P50281,MMP14,T,M,190,1BUV,ZN,Indirect,Urinary Tract disease,CancerResource,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+P50750,CDK9,L,P,165,3MIA,MG,Indirect,Blood disease,CancerResource,1,hydrophobic,neutral,large,small,none,none,1,1,0
+P51512,MMP16,H,N,221,1RM8,CA,Indirect,Lung disease,CancerResource,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P51512,MMP16,P,T,198,1RM8,CA,Indirect,Aero Digestive Tract disease,CancerResource,1,neutral,neutral,small,small,none,donor_and_acceptor,0,0,1
+P51512,MMP16,Y,S,210,1RM8,ZN,Indirect,Lung disease,CancerResource,1,neutral,neutral,very_large,very_small,donor_and_acceptor,donor_and_acceptor,0,1,0
+P55042,RRAD,Q,R,250,3Q72,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+P61006,RAB8A,W,L,62,3TNF,MG,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,very_large,large,donor,none,0,1,1
+P61586,RHOA,G,V,17,1S1C,MG,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P61586,RHOA,G,E,17,1S1C,MG,Indirect,Breast disease,CancerResource,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P62136,PPP1CA,L,P,90,3HVQ,MN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,neutral,large,small,none,none,1,1,0
+P62508,ESRRG,A,D,375,2P7G,NA,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophilic,very_small,small,none,acceptor,1,1,1
+P62508,ESRRG,E,K,247,2GP7,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P63316,TNNC1,D,N,149,1J1E,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P98170,XIAP,P,Q,325,1TFT,ZN,Indirect,Nervous System disease,CancerResource,1,neutral,hydrophilic,small,medium,none,donor_and_acceptor,1,1,1
+Q00722,PLCB2,W,C,361,2FJU,CA,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,very_large,small,donor,none,0,1,1
+Q02750,MAP2K1,D,N,67,3EQI,NA,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q02750,MAP2K1,Y,C,134,3EQG,NA,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+Q04609,FOLH1,N,K,438,2C6G,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+Q04609,FOLH1,N,D,438,2C6G,CA,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+Q04721,NOTCH2,D,V,1519,2OO4,CA,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+Q04759,PRKCQ,G,E,211,2ENN,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+Q05193,DNM1,R,H,67,3ZYC,MG,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q07812,BAX,G,R,67,3PK1,CD,Indirect,Lung disease,CancerResource,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+Q09472,EP300,R,Q,1773,3IO2,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q12778,FOXO1,R,H,225,3COA,CA,Indirect,Blood disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q12913,PTPRJ,H,D,1104,2CFV,NI,Indirect,Breast disease,CancerResource,1,neutral,hydrophilic,medium,small,donor_and_acceptor,acceptor,1,1,1
+Q13489,BIRC3,G,D,297,2UVL,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+Q13572,ITPK1,V,I,293,2Q7D,MN,Indirect,Nervous System disease,CancerResource,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q13642,FHL1,N,S,38,2CUP,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+Q13642,FHL1,R,L,44,1X63,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+Q13887,KLF5,F,L,433,2EBT,ZN,Indirect,Breast disease,CancerResource,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+Q14627,IL13RA2,F,Y,95,3LB6,CA,Indirect,Blood disease,CancerResource,1,hydrophobic,neutral,very_large,very_large,none,donor_and_acceptor,1,0,1
+Q15027,ACAP1,A,T,418,3JUE,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+Q15046,KARS,C,G,496,3BJU,CA,Indirect,Muscular disease,CancerResource,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+Q15120,PDK3,D,Y,298,1Y8P,K,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+Q15382,RHEB,E,K,40,1XTR,MG,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q15418,RPS6KA1,G,V,610,2WNT,NA,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+Q15465,SHH,R,W,123,3HO5,CA,Indirect,Blood disease,CancerResource,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+Q16696,CYP2A13,R,G,437,3T3S,FE,Indirect,Breast disease,CancerResource,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+Q17R31,TATDN3,R,Q,229,2Y1H,NI,Indirect,Metabolic disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q8IXJ6,SIRT2,P,L,219,1J8F,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophobic,small,large,none,none,1,1,0
+Q8N1Q1,CA13,G,E,99,3DA2,ZN,Indirect,Breast disease,CancerResource,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+Q8N6T3,ARFGAP1,A,T,27,3DWD,ZN,Indirect,Blood disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+Q8NBP7,PCSK9,G,E,337,2XTJ,CA,Indirect,Ovarian disease,CancerResource,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+Q8NI22,MCFD2,D,H,89,3LCP,CA,Indirect,Urogenital disease,CancerResource,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+Q8WUI4,HDAC7,G,E,799,3C0Z,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+Q8WY64,MYLIP,E,K,392,2YHO,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q92784,DPF3,T,A,324,2KWO,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,hydrophobic,small,very_small,donor_and_acceptor,none,1,1,1
+Q92793,CREBBP,M,I,1798,2KJE,ZN,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q92793,CREBBP,I,M,1846,2KJE,ZN,Indirect,Lung disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q93009,USP7,A,V,197,1YY6,NA,Indirect,Prostate disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q93099,HGD,M,L,343,1EY2,FE,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q96C10,DHX58,I,T,610,2W4R,HG,Indirect,Urogenital disease,CancerResource,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+Q96LB9,PGLYRP3,P,L,179,1TWQ,NI,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,small,large,none,none,1,1,0
+Q96LB9,PGLYRP3,A,V,290,1SK3,NI,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q96Q83,ALKBH3,E,Q,79,2IUW,FE,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,medium,medium,acceptor,donor_and_acceptor,0,0,1
+Q99496,RNF2,S,C,310,3GS2,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophobic,very_small,small,donor_and_acceptor,none,1,1,1
+Q9H6I2,SOX17,V,M,126,4A3N,ZN,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q9H7B4,SMYD3,R,W,85,3QWP,ZN,Indirect,Ovarian disease,CancerResource,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+Q9H7Z6,KAT8,R,H,224,2PQ8,ZN,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q9NNX6,CD209,T,M,326,1K9I,CA,Indirect,Lung disease,CancerResource,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q9NPF5,DMAP1,V,L,163,3HM5,CA,Indirect,Blood disease,CancerResource,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q9NQC7,CYLD,T,N,822,2VHF,ZN,Indirect,Liver disease,CancerResource,1,neutral,hydrophilic,small,small,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q9NQW7,XPNPEP1,R,H,535,3CTZ,MN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q9NR56,MBNL1,S,L,40,3D2N,ZN,Indirect,Blood disease,CancerResource,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+Q9NW38,FANCL,N,K,270,3ZQS,NA,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+Q9NXA8,SIRT5,T,P,164,2B4Y,ZN,Indirect,Blood disease,CancerResource,1,neutral,neutral,small,small,donor_and_acceptor,none,0,0,1
+Q9UBT6,POLK,H,Y,105,2W7O,CA,Indirect,Gastro-Intestinal disease,CancerResource,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+Q9UGB7,MIOX,G,V,126,2IBN,FE,Indirect,Aero Digestive Tract disease,CancerResource,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+Q9UGI8,TES,V,G,410,2IYB,ZN,Indirect,Urogenital disease,CancerResource,1,hydrophobic,neutral,medium,very_small,none,none,1,1,0
+Q9UGI8,TES,E,G,306,2XQN,ZN,Indirect,Urogenital disease,CancerResource,1,hydrophilic,neutral,medium,very_small,acceptor,none,1,1,1
+Q9UHI8,ADAMTS1,S,P,481,2V4B,CD,Indirect,Ovarian disease,CancerResource,1,neutral,neutral,very_small,small,donor_and_acceptor,none,0,1,1
+Q9UIH9,KLF15,R,L,373,2ENT,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+Q9UJW3,DNMT3L,R,Q,115,2PV0,ZN,Indirect,Lung disease,CancerResource,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q9UK17,KCND3,S,C,112,1S1G,ZN,Indirect,Metabolic disease,CancerResource,1,neutral,hydrophobic,very_small,small,donor_and_acceptor,none,1,1,1
+Q9UK17,KCND3,E,K,134,1S1G,ZN,Indirect,Aero Digestive Tract disease,CancerResource,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q9UK17,KCND3,P,L,106,1S1G,ZN,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophobic,small,large,none,none,1,1,0
+Q9UNA0,ADAMTS5,G,E,380,3HY7,CA,Indirect,Skin and Connective Tissue disease,CancerResource,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+Q9UNA0,ADAMTS5,D,N,422,2RJQ,ZN,Indirect,Gastro-Intestinal disease,CancerResource,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q9Y275,TNFSF13B,K,T,216,1KXG,MG,Indirect,Metabolic disease,CancerResource,1,hydrophilic,neutral,large,small,donor,donor_and_acceptor,1,1,1
+Q9Y4D7,PLXND1,A,T,1590,3H6N,AS,Indirect,Blood disease,CancerResource,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+Q9Y6U3,SCIN,R,P,447,3FG6,CA,Indirect,Urinary Tract disease,CancerResource,1,hydrophilic,neutral,large,small,donor,none,1,1,1
+O14832,PHYH,D,G,177,2A1X,FE,Direct,Metabolic disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+O14832,PHYH,H,R,175,2A1X,FE,Direct,Metabolic disease,UniProt,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+O43819,SCO2,C,Y,133,2RLI,CU,Direct,Cardiovascular Disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P00439,PAH,E,D,330,5PAH,FE,Direct,Metabolic disease,UniProt,1,hydrophilic,hydrophilic,medium,small,acceptor,acceptor,0,1,0
+P00439,PAH,H,Y,290,5PAH,FE,Direct,Metabolic disease,UniProt,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P00441,SOD1,E,K,50,2XJL,ZN,Direct,Nervous System disease,UniProt,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P00441,SOD1,H,A,81,3KH3,ZN,Direct,Nervous System disease,UniProt,1,neutral,hydrophobic,medium,very_small,donor_and_acceptor,none,1,1,1
+P00441,SOD1,H,Q,49,3KH3,CU,Direct,Nervous System disease,UniProt,1,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P00441,SOD1,H,R,49,3KH3,CU,Direct,Nervous System disease,UniProt,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P00441,SOD1,D,V,125,3HFF,ZN,Direct,Nervous System disease,UniProt,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P00441,SOD1,D,G,125,3HFF,ZN,Direct,Nervous System disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P00441,SOD1,V,L,119,3KH3,CU,Direct,Nervous System disease,UniProt,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P00813,ADA,H,D,15,3IAR,NI,Direct,Metabolic disease,UniProt,1,neutral,hydrophilic,medium,small,donor_and_acceptor,acceptor,1,1,1
+P00918,CA2,H,Y,94,1TE3,ZN,Direct,Hereditary disease,UniProt,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P01116,KRAS,A,T,59,4DSN,MG,Direct,Gastro-Intestinal disease,UniProt,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P01116,KRAS,G,R,60,4DSN,MG,Direct,Cardiovascular Disease,UniProt,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P02766,TTR,E,G,62,3DGD,ZN,Direct,Nervous System disease,UniProt,1,hydrophilic,neutral,medium,very_small,acceptor,none,1,1,1
+P02766,TTR,E,D,62,3DGD,ZN,Direct,Nervous System disease,UniProt,1,hydrophilic,hydrophilic,medium,small,acceptor,acceptor,0,1,0
+P04049,RAF1,T,R,260,3CU8,MG,Direct,Skin and Connective Tissue disease,UniProt,1,neutral,hydrophilic,small,large,donor_and_acceptor,donor,1,1,1
+P04275,VWF,R,G,1597,3ZQK,CA,Direct,Blood disease,UniProt,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+P04275,VWF,R,Q,1597,3ZQK,CA,Direct,Blood disease,UniProt,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P04275,VWF,R,W,1597,3ZQK,CA,Direct,Blood disease,UniProt,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+P04637,TP53,C,G,238,1KZY,ZN,Direct,Metabolic disease,UniProt,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P04637,TP53,C,S,238,1KZY,ZN,Direct,Metabolic disease,UniProt,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P04637,TP53,H,Y,179,1KZY,ZN,Direct,Metabolic disease,UniProt,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P11511,CYP19A1,C,Y,437,3EQM,FE,Direct,Metabolic disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P12883,MYH7,C,F,905,2FXM,HG,Direct,Cardiovascular Disease,UniProt,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P15289,ARSA,D,Y,281,1E+33,MG,Direct,Hereditary disease,UniProt,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P15289,ARSA,D,H,30,1E+33,MG,Direct,Hereditary disease,UniProt,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P15289,ARSA,N,S,282,1E+33,MG,Direct,Hereditary disease,UniProt,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P15289,ARSA,D,N,29,1E+33,MG,Direct,Hereditary disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P19544,WT1,C,F,388,2PRT,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P19544,WT1,C,R,388,2PRT,ZN,Direct,Kidney disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P19544,WT1,C,Y,388,2PRT,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P19544,WT1,H,R,405,2PRT,ZN,Direct,Hereditary disease,UniProt,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P19544,WT1,H,Y,401,2PRT,ZN,Direct,Hereditary disease,UniProt,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P19544,WT1,C,R,385,2PRT,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P19544,WT1,H,Q,373,2PRT,ZN,Direct,Hereditary disease,UniProt,1,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P19544,WT1,H,Y,373,2PRT,ZN,Direct,Hereditary disease,UniProt,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P19544,WT1,H,Y,377,2PRT,ZN,Direct,Kidney disease,UniProt,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P19544,WT1,H,R,377,2PRT,ZN,Direct,Hereditary disease,UniProt,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P19544,WT1,C,G,360,2PRT,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P19544,WT1,C,Y,360,2PRT,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P19544,WT1,C,Y,355,2PRT,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P19544,WT1,C,G,355,2PRT,ZN,Direct,Nervous System disease,UniProt,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P19544,WT1,C,Y,330,2PRT,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P22033,MUT,H,R,627,2XIJ,CO,Direct,Metabolic disease,UniProt,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P22830,FECH,C,S,406,2QD3,FE,Direct,Gastro-Intestinal disease,UniProt,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P22830,FECH,C,Y,406,2QD3,FE,Direct,Gastro-Intestinal disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P30613,PKLR,D,H,339,2VGG,MN,Direct,Metabolic disease,UniProt,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P30613,PKLR,E,K,315,2VGG,MN,Direct,Metabolic disease,UniProt,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P30613,PKLR,S,F,120,2VGG,K,Direct,Metabolic disease,UniProt,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P30793,GCH1,H,P,144,1FB1,ZN,Direct,Muscular disease,UniProt,1,neutral,neutral,medium,small,donor_and_acceptor,none,0,1,1
+P30793,GCH1,C,W,141,1FB1,ZN,Direct,Muscular disease,UniProt,1,hydrophobic,hydrophobic,small,very_large,none,donor,0,1,1
+P30793,GCH1,C,R,141,1FB1,ZN,Direct,Muscular disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P35520,CBS,H,R,65,1M54,FE,Direct,Metabolic disease,UniProt,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P35555,FBN1,E,K,2130,1EMN,CA,Direct,Skin and Connective Tissue disease,UniProt,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P35555,FBN1,N,D,2144,1EMN,CA,Direct,Skin and Connective Tissue disease,UniProt,1,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+P35555,FBN1,D,E,2127,1EMN,CA,Direct,Skin and Connective Tissue disease,UniProt,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+P35555,FBN1,T,P,2145,1EMN,CA,Direct,Skin and Connective Tissue disease,UniProt,1,neutral,neutral,small,small,donor_and_acceptor,none,0,0,1
+P35555,FBN1,D,A,1487,1UZP,SM,Direct,Skin and Connective Tissue disease,UniProt,1,hydrophilic,hydrophobic,small,very_small,acceptor,none,1,1,1
+P35555,FBN1,N,K,2624,1UZJ,CA,Direct,Skin and Connective Tissue disease,UniProt,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P35914,HMGCL,D,E,42,2CW6,MG,Direct,Hereditary disease,UniProt,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+P35914,HMGCL,D,G,42,2CW6,MG,Direct,Hereditary disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P35914,HMGCL,D,H,42,2CW6,MG,Direct,Hereditary disease,UniProt,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P35914,HMGCL,H,R,233,2CW6,MG,Direct,Hereditary disease,UniProt,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P38398,BRCA1,C,G,61,1JM7,ZN,Direct,Ovarian disease,UniProt,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P45381,ASPA,H,P,21,2Q51,ZN,Direct,Metabolic disease,UniProt,1,neutral,neutral,medium,small,donor_and_acceptor,none,0,1,1
+P46100,ATRX,C,S,200,3QLA,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P46100,ATRX,C,F,243,3QLA,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P46100,ATRX,C,R,220,3QLA,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P49747,COMP,D,N,446,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P49747,COMP,D,A,420,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophobic,small,very_small,acceptor,none,1,1,1
+P49747,COMP,D,V,361,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P49747,COMP,D,Y,361,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,D,N,475,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P49747,COMP,D,G,482,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P49747,COMP,D,H,473,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,D,N,385,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P49747,COMP,D,Y,385,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,D,N,374,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P49747,COMP,D,V,378,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P49747,COMP,D,N,376,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P49747,COMP,C,G,387,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P49747,COMP,C,R,387,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P49747,COMP,D,Y,408,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,D,H,397,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,D,G,317,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P49747,COMP,D,G,326,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P49747,COMP,D,Y,326,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P49747,COMP,D,N,290,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P49747,COMP,D,G,290,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P49747,COMP,D,N,518,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P49747,COMP,D,G,511,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P49747,COMP,D,G,507,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P49747,COMP,D,V,349,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P49747,COMP,C,Y,410,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P49747,COMP,N,K,415,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P49747,COMP,C,S,448,3FBY,CA,Direct,Muscular disease,UniProt,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P52732,KIF11,S,C,235,2X7D,MG,Direct,Hereditary disease,UniProt,1,neutral,hydrophobic,very_small,small,donor_and_acceptor,none,1,1,1
+P63316,TNNC1,D,E,145,1J1E,CA,Direct,Cardiovascular Disease,UniProt,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+Q06187,BTK,C,G,155,2Z0P,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+Q06187,BTK,C,R,155,2Z0P,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+Q06187,BTK,C,S,154,2Z0P,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+Q15465,SHH,D,N,147,3MXW,ZN,Direct,Nervous System disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q15465,SHH,H,P,140,3MXW,ZN,Direct,Nervous System disease,UniProt,1,neutral,neutral,medium,small,donor_and_acceptor,none,0,1,1
+Q15465,SHH,H,Q,140,3MXW,ZN,Direct,Nervous System disease,UniProt,1,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q8IWV7,UBR1,C,F,127,3NY1,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+Q8IWV7,UBR1,H,R,166,3NY1,ZN,Direct,Hereditary disease,UniProt,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q8IWV7,UBR1,H,R,136,3NY1,ZN,Direct,Hereditary disease,UniProt,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q8NBK3,SUMF1,N,I,259,2AIK,CA,Direct,Hereditary disease,UniProt,1,hydrophilic,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q8NI22,MCFD2,D,E,129,3LCP,CA,Direct,Blood disease,UniProt,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+Q8NI22,MCFD2,Y,N,135,3LCP,CA,Direct,Blood disease,UniProt,1,neutral,hydrophilic,very_large,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+Q8NI22,MCFD2,D,H,81,3LCP,CA,Direct,Blood disease,UniProt,1,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+Q93099,HGD,H,R,371,1EY2,FE,Direct,Hereditary disease,UniProt,1,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q9NVV9,THAP1,H,N,57,2L1G,ZN,Direct,Muscular disease,UniProt,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+Q9NVV9,THAP1,C,F,54,2L1G,ZN,Direct,Muscular disease,UniProt,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+Q9NVV9,THAP1,E,G,56,2L1G,ZN,Direct,Muscular disease,UniProt,1,hydrophilic,neutral,medium,very_small,acceptor,none,1,1,1
+Q9Y3Z3,SAMHD1,H,Y,167,3U1N,ZN,Direct,Immune system disease,UniProt,1,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+Q9Y6K1,DNMT3A,C,R,549,3A1A,ZN,Direct,Hereditary disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+O14773,TPP1,P,S,544,3EE6,CA,Indirect,Metabolic disease,UniProt,1,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+O14832,PHYH,Q,K,176,2A1X,FE,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+O43819,SCO2,S,F,225,2RLI,CU,Indirect,Cardiovascular Disease,UniProt,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+O43918,AIRE,V,M,301,1XWH,ZN,Indirect,Immune system disease,UniProt,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P00439,PAH,F,L,331,5PAH,FE,Indirect,Metabolic disease,UniProt,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P00813,ADA,A,T,215,3IAR,NI,Indirect,Metabolic disease,UniProt,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P01116,KRAS,P,R,34,4DSO,MG,Indirect,Cardiovascular Disease,UniProt,1,neutral,hydrophilic,small,large,none,donor,1,1,1
+P01116,KRAS,P,Q,34,4DSO,MG,Indirect,Skin and Connective Tissue disease,UniProt,1,neutral,hydrophilic,small,medium,none,donor_and_acceptor,1,1,1
+P01116,KRAS,I,M,36,4DSO,MG,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P04049,RAF1,P,S,261,3CU8,MG,Indirect,Skin and Connective Tissue disease,UniProt,1,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+P04156,PRNP,D,N,178,1I4M,CD,Indirect,Mental disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P04275,VWF,R,G,1597,3PPX,NA,Indirect,Blood disease,UniProt,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+P04275,VWF,R,Q,1597,3PPX,NA,Indirect,Blood disease,UniProt,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P04275,VWF,R,W,1597,3PPX,NA,Indirect,Blood disease,UniProt,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+P04637,TP53,M,I,237,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P04637,TP53,S,F,241,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P04637,TP53,S,T,241,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,neutral,neutral,very_small,small,donor_and_acceptor,donor_and_acceptor,0,1,0
+P04637,TP53,R,G,175,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+P04637,TP53,R,L,175,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+P04637,TP53,R,H,175,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P04637,TP53,E,K,180,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P04637,TP53,R,Q,267,2J1Y,CA,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P05089,ARG1,A,V,125,1WVA,MN,Indirect,Hereditary disease,UniProt,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P08235,NR3C2,L,P,979,3VHV,K,Indirect,Hereditary disease,UniProt,1,hydrophobic,neutral,large,small,none,none,1,1,0
+P08581,MET,M,T,1131,3F66,NA,Indirect,Kidney disease,UniProt,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P08709,F7,E,Q,79,1W8B,CA,Indirect,Blood disease,UniProt,1,hydrophilic,hydrophilic,medium,medium,acceptor,donor_and_acceptor,0,0,1
+P08709,F7,L,Q,73,1W8B,CA,Indirect,Blood disease,UniProt,1,hydrophobic,hydrophilic,large,medium,none,donor_and_acceptor,1,1,1
+P08709,F7,F,L,64,2ZWL,CA,Indirect,Blood disease,UniProt,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P08709,F7,D,N,183,2AER,NA,Indirect,Blood disease,UniProt,1,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P08709,F7,S,F,186,2AER,NA,Indirect,Blood disease,UniProt,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P08709,F7,G,D,216,1QFK,CA,Indirect,Blood disease,UniProt,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P08842,STS,S,L,341,1P49,CA,Indirect,Hereditary disease,UniProt,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+P11473,VDR,K,E,45,1KB2,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophilic,large,medium,donor,acceptor,0,1,1
+P12883,MYH7,V,L,186,4DB1,MN,Indirect,Cardiovascular Disease,UniProt,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P13716,ALAD,G,R,133,1E+51,ZN,Indirect,Metabolic disease,UniProt,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P15848,ARSB,G,R,302,1FSU,CA,Indirect,Metabolic disease,UniProt,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P19544,WT1,M,R,342,2PRT,ZN,Indirect,Hereditary disease,UniProt,1,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P21802,FGFR2,I,S,288,1E0O,NI,Indirect,Muscular disease,UniProt,1,hydrophobic,neutral,large,very_small,none,donor_and_acceptor,1,1,1
+P22033,MUT,G,C,626,2XIJ,CO,Indirect,Metabolic disease,UniProt,1,neutral,hydrophobic,very_small,small,none,none,1,1,0
+P23025,XPA,R,K,130,1XPA,ZN,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophilic,hydrophilic,large,large,donor,donor,0,0,0
+P30613,PKLR,L,P,155,2VGB,K,Indirect,Metabolic disease,UniProt,1,hydrophobic,neutral,large,small,none,none,1,1,0
+P30613,PKLR,I,T,314,2VGG,MN,Indirect,Metabolic disease,UniProt,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P30793,GCH1,M,I,211,1FB1,ZN,Indirect,Hereditary disease,UniProt,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P30793,GCH1,M,V,211,1FB1,ZN,Indirect,Muscular disease,UniProt,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P30793,GCH1,M,V,213,1FB1,ZN,Indirect,Muscular disease,UniProt,1,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P35555,FBN1,I,T,2185,1EMN,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P35555,FBN1,C,R,2489,1UZJ,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P35555,FBN1,C,Y,123,2W86,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P35555,FBN1,C,Y,129,2W86,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P35555,FBN1,G,D,127,2W86,CA,Indirect,Not provided,UniProt,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P35555,FBN1,H,P,2623,1UZJ,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,neutral,neutral,medium,small,donor_and_acceptor,none,0,1,1
+P35555,FBN1,C,Y,2605,1UZJ,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P35555,FBN1,Y,C,2629,1UZJ,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+P35555,FBN1,E,K,2610,1UZJ,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P35555,FBN1,C,G,1610,1UZP,SM,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophobic,neutral,small,very_small,none,none,1,1,0
+P35555,FBN1,Y,C,20,2W86,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+P38398,BRCA1,E,K,23,1JM7,ZN,Indirect,Breast disease,UniProt,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P46100,ATRX,G,E,175,3QLA,ZN,Indirect,Hereditary disease,UniProt,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P46100,ATRX,Q,P,219,3QLA,ZN,Indirect,Hereditary disease,UniProt,1,hydrophilic,neutral,medium,small,donor_and_acceptor,none,1,1,1
+P46100,ATRX,W,S,222,3QLA,ZN,Indirect,Hereditary disease,UniProt,1,hydrophobic,neutral,very_large,very_small,donor,donor_and_acceptor,1,1,1
+P49747,COMP,G,E,440,3FBY,CA,Indirect,Muscular disease,UniProt,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P49747,COMP,G,R,440,3FBY,CA,Indirect,Muscular disease,UniProt,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P49747,COMP,G,E,427,3FBY,CA,Indirect,Muscular disease,UniProt,1,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P49747,COMP,C,S,371,3FBY,CA,Indirect,Muscular disease,UniProt,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P49747,COMP,C,Y,371,3FBY,CA,Indirect,Muscular disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P49747,COMP,G,R,404,3FBY,CA,Indirect,Muscular disease,UniProt,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P49747,COMP,P,R,276,3FBY,CA,Indirect,Muscular disease,UniProt,1,neutral,hydrophilic,small,large,none,donor,1,1,1
+P49747,COMP,S,L,298,3FBY,CA,Indirect,Muscular disease,UniProt,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+P49747,COMP,G,D,501,3FBY,CA,Indirect,Muscular disease,UniProt,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P49747,COMP,C,F,348,3FBY,CA,Indirect,Muscular disease,UniProt,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P51787,KCNQ1,L,M,619,3BJ4,NI,Indirect,Hereditary disease,UniProt,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P52732,KIF11,R,C,234,2X7D,MG,Indirect,Hereditary disease,UniProt,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P63316,TNNC1,L,Q,29,3RV5,CD,Indirect,Cardiovascular Disease,UniProt,1,hydrophobic,hydrophilic,large,medium,none,donor_and_acceptor,1,1,1
+Q03393,PTS,R,G,25,3I2B,NI,Indirect,Hereditary disease,UniProt,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+Q03393,PTS,R,Q,25,3I2B,NI,Indirect,Hereditary disease,UniProt,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q03393,PTS,N,S,52,3I2B,NI,Indirect,Hereditary disease,UniProt,1,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+Q13586,STIM1,G,D,81,2K60,CA,Indirect,Hereditary disease,UniProt,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+Q14117,DPYS,T,R,68,2VR2,ZN,Indirect,Metabolic disease,UniProt,1,neutral,hydrophilic,small,large,donor_and_acceptor,donor,1,1,1
+Q14623,IHH,E,K,131,3N1F,CA,Indirect,Hereditary disease,UniProt,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+Q15465,SHH,V,M,124,3HO5,CA,Indirect,Nervous System disease,UniProt,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q15465,SHH,C,F,183,3MXW,ZN,Indirect,Nervous System disease,UniProt,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+Q15465,SHH,C,R,183,3MXW,ZN,Indirect,Nervous System disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+Q15465,SHH,C,Y,183,3MXW,ZN,Indirect,Nervous System disease,UniProt,1,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+Q16678,CYP1B1,R,W,469,3PM0,FE,Indirect,Hereditary disease,UniProt,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+Q8NBP7,PCSK9,R,H,357,3H42,NA,Indirect,Hereditary disease,UniProt,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q8NI22,MCFD2,I,T,136,3LCP,CA,Indirect,Blood disease,UniProt,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+Q9NVV9,THAP1,S,F,6,2L1G,ZN,Indirect,Muscular disease,UniProt,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+Q9NVV9,THAP1,S,P,6,2L1G,ZN,Indirect,Muscular disease,UniProt,1,neutral,neutral,very_small,small,donor_and_acceptor,none,0,1,1
+Q9NVV9,THAP1,G,C,9,2L1G,ZN,Indirect,Muscular disease,UniProt,1,neutral,hydrophobic,very_small,small,none,none,1,1,0
+Q9Y223,GNE,I,T,587,2YHY,ZN,Indirect,Hereditary disease,UniProt,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+O14773,TPP1,Q,H,422,3EE6,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+O14773,TPP1,S,P,153,3EE6,ZN,Indirect,Metabolic disease,UniProt,1,neutral,neutral,very_small,small,donor_and_acceptor,none,0,1,1
+O14832,PHYH,P,S,173,2A1X,FE,Indirect,Metabolic disease,UniProt,1,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+P00439,PAH,I,N,283,5PAH,FE,Indirect,Metabolic disease,UniProt,1,hydrophobic,hydrophilic,large,small,none,donor_and_acceptor,1,1,1
+P00734,F2,G,V,601,3P70,NA,Indirect,Blood disease,UniProt,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P00813,ADA,G,R,216,3IAR,NI,Indirect,Metabolic disease,UniProt,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P00813,ADA,P,Q,297,3IAR,NI,Indirect,Metabolic disease,UniProt,1,neutral,hydrophilic,small,medium,none,donor_and_acceptor,1,1,1
+P00918,CA2,Q,P,92,1TE3,ZN,Indirect,Hereditary disease,UniProt,1,hydrophilic,neutral,medium,small,donor_and_acceptor,none,1,1,1
+P01112,HRAS,Q,K,61,2CL0,MG,Indirect,Endocrine System disease,UniProt,1,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+P02679,FGG,G,V,318,2OYI,CA,Indirect,Hereditary disease,UniProt,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P02679,FGG,T,P,303,2Q9I,CA,Indirect,Hereditary disease,UniProt,1,neutral,neutral,small,small,donor_and_acceptor,none,0,0,1
+P04637,TP53,Y,C,236,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+P04637,TP53,G,D,244,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P04637,TP53,G,V,244,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P04637,TP53,R,G,174,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+P04637,TP53,R,C,181,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P04637,TP53,R,H,181,1KZY,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P05093,CYP17A1,R,H,440,3SWZ,FE,Indirect,Endocrine System disease,UniProt,1,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P07101,TH,G,R,408,2XSN,ZN,Indirect,Hereditary disease,UniProt,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P07101,TH,C,F,359,2XSN,ZN,Indirect,Hereditary disease,UniProt,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P08581,MET,V,I,1220,3DKC,MG,Indirect,Kidney disease,UniProt,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P08709,F7,C,F,82,1W8B,CA,Indirect,Blood disease,UniProt,1,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P08709,F7,C,R,82,1W8B,CA,Indirect,Blood disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P08709,F7,P,S,189,2AER,NA,Indirect,Blood disease,UniProt,1,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+P08709,F7,R,Q,212,1QFK,CA,Indirect,Blood disease,UniProt,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P10721,KIT,G,V,812,1PKG,MG,Indirect,Hereditary disease,UniProt,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P11473,VDR,R,L,274,1KB6,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+P11498,PC,M,I,743,3BG9,MN,Indirect,Hereditary disease,UniProt,1,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P11511,CYP19A1,R,C,435,3EQM,FE,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P12883,MYH7,F,L,244,4DB1,MN,Indirect,Cardiovascular Disease,UniProt,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P12883,MYH7,N,K,187,4DB1,MN,Indirect,Cardiovascular Disease,UniProt,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+P15289,ARSA,G,S,32,1E+33,MG,Indirect,Hereditary disease,UniProt,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P16157,ANK1,I,T,1054,3KBU,HG,Indirect,Hereditary disease,UniProt,1,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+P19544,WT1,F,L,383,2PRT,ZN,Indirect,Kidney disease,UniProt,1,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P19544,WT1,G,C,379,2PRT,ZN,Indirect,Kidney disease,UniProt,1,neutral,hydrophobic,very_small,small,none,none,1,1,0
+P21802,FGFR2,S,L,252,1E0O,NI,Indirect,Muscular disease,UniProt,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+P21802,FGFR2,S,F,252,1E0O,NI,Indirect,Hereditary disease,UniProt,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,none,1,1,1
+P21802,FGFR2,S,W,252,1E0O,NI,Indirect,Hereditary disease,UniProt,1,neutral,hydrophobic,very_small,very_large,donor_and_acceptor,donor,1,1,1
+P21802,FGFR2,Q,P,289,1E0O,NI,Indirect,Hereditary disease,UniProt,1,hydrophilic,neutral,medium,small,donor_and_acceptor,none,1,1,1
+P30613,PKLR,A,T,154,2VGB,K,Indirect,Metabolic disease,UniProt,1,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P30613,PKLR,G,V,159,2VGB,K,Indirect,Metabolic disease,UniProt,1,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P30613,PKLR,R,P,337,2VGG,MN,Indirect,Metabolic disease,UniProt,1,hydrophilic,neutral,large,small,donor,none,1,1,1
+P30613,PKLR,R,Q,337,2VGG,MN,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P30613,PKLR,G,A,341,2VGG,MN,Indirect,Metabolic disease,UniProt,1,neutral,hydrophobic,very_small,very_small,none,none,1,0,0
+P30613,PKLR,G,D,341,2VGG,MN,Indirect,Metabolic disease,UniProt,1,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P32754,HPD,A,V,268,3ISQ,CO,Indirect,Metabolic disease,UniProt,1,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P35555,FBN1,C,S,68,1LMJ,CA,Indirect,Eye Diseases,UniProt,1,hydrophobic,neutral,small,very_small,none,donor_and_acceptor,1,1,1
+P35555,FBN1,Y,C,63,1LMJ,CA,Indirect,Eye Diseases,UniProt,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+P35555,FBN1,R,C,122,2W86,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P35555,FBN1,C,R,111,2W86,CA,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P35555,FBN1,C,R,1622,1UZP,SM,Indirect,Skin and Connective Tissue disease,UniProt,1,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P35557,GCK,E,K,248,3FR0,NA,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P35557,GCK,V,A,203,3FGU,MG,Indirect,Metabolic disease,UniProt,1,hydrophobic,hydrophobic,medium,very_small,none,none,0,1,0
+P43246,MSH2,G,S,674,2O8E,MG,Indirect,Hereditary disease,UniProt,1,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P43246,MSH2,G,A,674,2O8E,MG,Indirect,Hereditary disease,UniProt,1,neutral,hydrophobic,very_small,very_small,none,none,1,0,0
+P45381,ASPA,D,Y,114,2Q51,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P45381,ASPA,D,E,114,2Q51,ZN,Indirect,Metabolic disease,UniProt,1,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+P45452,MMP13,W,G,207,456C,CA,Indirect,Hereditary disease,UniProt,1,hydrophobic,neutral,very_large,very_small,donor,none,1,1,1
+P45452,MMP13,F,S,75,1FM1,CA,Indirect,Muscular disease,UniProt,1,hydrophobic,neutral,very_large,very_small,none,donor_and_acceptor,1,1,1
+P45452,MMP13,F,S,74,1FM1,CA,Indirect,Muscular disease,UniProt,1,hydrophobic,neutral,very_large,very_small,none,donor_and_acceptor,1,1,1
+P45452,MMP13,W,G,207,2OZR,ZN,Indirect,Hereditary disease,UniProt,1,hydrophobic,neutral,very_large,very_small,donor,none,1,1,1
+P45452,MMP13,H,N,232,2OW9,CA,Indirect,Muscular disease,UniProt,1,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P49747,COMP,A,D,311,3FBY,CA,Indirect,Muscular disease,UniProt,1,hydrophobic,hydrophilic,very_small,small,none,acceptor,1,1,1
+P49747,COMP,G,R,299,3FBY,CA,Indirect,Muscular disease,UniProt,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+P49747,COMP,D,G,515,3FBY,CA,Indirect,Muscular disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P49747,COMP,P,S,234,3FBY,CA,Indirect,Muscular disease,UniProt,1,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+P54577,YARS,G,R,41,1Q11,K,Indirect,Tooth disease,UniProt,1,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+Q03393,PTS,L,F,26,3I2B,NI,Indirect,Hereditary disease,UniProt,1,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+Q03393,PTS,N,D,47,3I2B,NI,Indirect,Hereditary disease,UniProt,1,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+Q03393,PTS,D,V,136,3I2B,NI,Indirect,Hereditary disease,UniProt,1,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+Q03393,PTS,D,G,136,3I2B,NI,Indirect,Hereditary disease,UniProt,1,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+Q15465,SHH,S,L,184,3MXW,ZN,Indirect,Nervous System disease,UniProt,1,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+Q8IWV7,UBR1,V,L,122,3NY1,ZN,Indirect,Hereditary disease,UniProt,1,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q93099,HGD,T,N,369,1EY2,FE,Indirect,Hereditary disease,UniProt,1,neutral,hydrophilic,small,small,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q93099,HGD,P,L,373,1EY2,FE,Indirect,Hereditary disease,UniProt,1,neutral,hydrophobic,small,large,none,none,1,1,0
+Q93099,HGD,N,D,337,1EY2,FE,Indirect,Hereditary disease,UniProt,1,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+Q9BZS1,FOXP3,R,W,397,3QRF,MG,Indirect,Immune system disease,UniProt,1,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+Q9GZT9,EGLN1,P,R,317,3OUJ,FE,Indirect,Hereditary disease,UniProt,1,neutral,hydrophilic,small,large,none,donor,1,1,1
+Q9NVV9,THAP1,T,I,59,2L1G,ZN,Indirect,Muscular disease,UniProt,1,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q9NVV9,THAP1,A,D,7,2L1G,ZN,Indirect,Muscular disease,UniProt,1,hydrophobic,hydrophilic,very_small,small,none,acceptor,1,1,1
+Q9NVV9,THAP1,N,K,12,2L1G,ZN,Indirect,Muscular disease,UniProt,1,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+Q9NVV9,THAP1,Y,C,8,2L1G,ZN,Indirect,Muscular disease,UniProt,1,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+P46531,NOTCH1,H,Y,523,2VJ3,CA,Direct,NA,ClinVar,0,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P46976,GYG1,H,L,151,3RMV,MG,Direct,NA,ClinVar,0,neutral,hydrophobic,medium,large,donor_and_acceptor,none,1,1,1
+P46976,GYG1,H,L,151,3RMW,MG,Direct,NA,ClinVar,0,neutral,hydrophobic,medium,large,donor_and_acceptor,none,1,1,1
+P55789,GFER,H,N,172,3MBG,ZN,Direct,NA,ClinVar,0,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+O60260,PRKN,Q,R,34,2JMO,ZN,Indirect,NA,ClinVar,0,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+O60882,MMP2,E,K,166,2JSD,CA,Indirect,NA,ClinVar,0,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+O75015,FCGR3B,I,V,106,1FNL,HG,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P00533,EGF,H,Y,151,1MOX,PT,Indirect,NA,ClinVar,0,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+P10636,MAPT,R,H,5,3OVL,ZN,Indirect,NA,ClinVar,0,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P38398,BRCA1,V,D,1804,1N5O,CO,Indirect,NA,ClinVar,0,hydrophobic,hydrophilic,medium,small,none,acceptor,1,1,1
+P38398,BRCA1,P,A,1806,1N5O,CO,Indirect,NA,ClinVar,0,neutral,hydrophobic,small,very_small,none,none,1,1,0
+P38398,BRCA1,K,Q,45,1JM7,ZN,Indirect,NA,ClinVar,0,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+P45452,MMP13,K,T,170,1ZTQ,CA,Indirect,NA,ClinVar,0,hydrophilic,neutral,large,small,donor,donor_and_acceptor,1,1,1
+P45452,MMP13,V,L,101,1FM1,CA,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P48740,MASP1,N,S,225,3DEM,CA,Indirect,NA,ClinVar,0,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P49747,COMP,N,D,386,3FBY,CA,Indirect,NA,ClinVar,0,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+P56524,HDAC4,A,T,291,2VQO,ZN,Indirect,NA,ClinVar,0,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P69905,HBA2,D,V,86,1QXD,FE,Indirect,NA,ClinVar,0,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P98155,LDLR,V,A,145,1V9U,CA,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,medium,very_small,none,none,0,1,0
+P98170,XIAP,A,G,321,1TFT,ZN,Indirect,NA,ClinVar,0,hydrophobic,neutral,very_small,very_small,none,none,1,0,0
+P98170,XIAP,T,S,152,3UW5,ZN,Indirect,NA,ClinVar,0,neutral,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,0,1,0
+Q13642,FHL1,R,W,95,2CUP,ZN,Indirect,NA,ClinVar,0,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+Q13642,FHL1,R,H,44,2EGQ,ZN,Indirect,NA,ClinVar,0,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q14192,FHL2,A,S,37,1X4L,ZN,Indirect,NA,ClinVar,0,hydrophobic,neutral,very_small,very_small,none,donor_and_acceptor,1,0,1
+Q14192,FHL2,A,S,37,1X4K,ZN,Indirect,NA,ClinVar,0,hydrophobic,neutral,very_small,very_small,none,donor_and_acceptor,1,0,1
+Q14315,FLNC,L,F,2538,2NQC,NI,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+Q5T4F4,ZFYVE27,A,V,21,1X4U,ZN,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q8WZ42,TTN,D,Y,60,1WAA,ZN,Indirect,NA,ClinVar,0,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+Q8WZ42,TTN,R,H,62,1WAA,ZN,Indirect,NA,ClinVar,0,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+O00187,MASP2,P,L,126,1SZB,CA,Indirect,NA,ClinVar,0,neutral,hydrophobic,small,large,none,none,1,1,0
+O60260,PRKN,A,T,46,2JMO,ZN,Indirect,NA,ClinVar,0,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+O60481,ZIC3,A,V,33,2RPC,ZN,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P01009,SERPINA1,D,N,365,1HP7,ZN,Indirect,NA,ClinVar,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P01009,SERPINA1,D,V,365,1HP7,ZN,Indirect,NA,ClinVar,0,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P01009,SERPINA1,D,Y,365,1HP7,ZN,Indirect,NA,ClinVar,0,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P05156,CFI,G,D,261,2XRC,CA,Indirect,NA,ClinVar,0,neutral,hydrophilic,very_small,small,none,acceptor,1,1,1
+P09012,SNRPA,I,V,33,3UD4,MG,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P13569,CFTR,L,F,467,2BBT,MG,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+P13686,ACP5,V,I,221,2BQ8,FE,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P19544,WT1,Q,H,67,2JP9,ZN,Indirect,NA,ClinVar,0,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P20062,TCN2,V,M,175,2BB5,CO,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P21802,FGFR2,S,L,252,1E0O,NI,Indirect,NA,ClinVar,0,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+P26358,DNMT1,H,Q,1476,3SWR,ZN,Indirect,NA,ClinVar,0,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P45452,MMP13,K,T,170,456C,ZN,Indirect,NA,ClinVar,0,hydrophilic,neutral,large,small,donor,donor_and_acceptor,1,1,1
+P45452,MMP13,V,L,101,1ZTQ,CA,Indirect,NA,ClinVar,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P49711,CTCF,P,A,41,1X6H,ZN,Indirect,NA,ClinVar,0,neutral,hydrophobic,small,very_small,none,none,1,1,0
+P61626,LYZ,T,N,88,3LHM,CA,Indirect,NA,ClinVar,0,neutral,hydrophilic,small,small,donor_and_acceptor,donor_and_acceptor,1,0,0
+P69905,HBA2,D,V,86,1BZ1,FE,Indirect,NA,ClinVar,0,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P98170,XIAP,A,G,321,3UW4,ZN,Indirect,NA,ClinVar,0,hydrophobic,neutral,very_small,very_small,none,none,1,0,0
+Q13642,FHL1,R,H,44,1X63,ZN,Indirect,NA,ClinVar,0,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q8WZ42,TTN,A,T,5,1WAA,ZN,Indirect,NA,ClinVar,0,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+O00602,FCN1,S,A,268,2D39,CA,Direct,NA,CancerResource,0,neutral,hydrophobic,very_small,very_small,donor_and_acceptor,none,1,0,1
+P02792,FTL,H,Q,50,3KXU,CD,Direct,NA,CancerResource,0,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P05129,PRKCG,S,A,251,2UZP,CA,Direct,NA,CancerResource,0,neutral,hydrophobic,very_small,very_small,donor_and_acceptor,none,1,0,1
+P05156,CFI,D,N,224,2XRC,CA,Direct,NA,CancerResource,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P08151,GLI1,C,Y,177,2GLI,CO,Direct,NA,CancerResource,0,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P16473,TSHR,H,R,63,3G04,ZN,Direct,NA,CancerResource,0,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P26447,S100A4,D,E,25,3KO0,CA,Direct,NA,CancerResource,0,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+P27815,PDE4A,D,N,413,3TVX,ZN,Direct,NA,CancerResource,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P27815,PDE4A,D,N,413,2QYK,MG,Direct,NA,CancerResource,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P29373,CRABP2,E,Q,73,2G79,NA,Direct,NA,CancerResource,0,hydrophilic,hydrophilic,medium,medium,acceptor,donor_and_acceptor,0,0,1
+P35442,THBS2,V,I,818,2RHP,CA,Direct,NA,CancerResource,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P47989,XDH,S,G,806,2E1Q,CA,Direct,NA,CancerResource,0,neutral,neutral,very_small,very_small,donor_and_acceptor,none,0,0,1
+P49747,COMP,N,D,474,3FBY,CA,Direct,NA,CancerResource,0,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+P49747,COMP,I,V,403,3FBY,CA,Direct,NA,CancerResource,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P54315,PNLIPRP1,K,N,183,2PPL,NA,Direct,NA,CancerResource,0,hydrophilic,hydrophilic,large,small,donor,donor_and_acceptor,0,1,1
+Q01415,GALK2,R,K,211,2A2C,NA,Direct,NA,CancerResource,0,hydrophilic,hydrophilic,large,large,donor,donor,0,0,0
+Q04828,AKR1C1,H,L,248,3GUG,ZN,Direct,NA,CancerResource,0,neutral,hydrophobic,medium,large,donor_and_acceptor,none,1,1,1
+Q16853,AOC3,H,Y,414,2C11,CU,Direct,NA,CancerResource,0,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+Q8NBK3,SUMF1,I,V,294,1Y1H,SR,Direct,NA,CancerResource,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+Q8TF76,GSG2,H,R,563,3FMD,NI,Direct,NA,CancerResource,0,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q96FQ6,S100A16,R,C,73,2L51,CA,Direct,NA,CancerResource,0,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+Q9H2X3,CLEC4M,D,G,256,1SL6,CA,Direct,NA,CancerResource,0,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+Q9H477,RBKS,A,G,304,2FV7,NA,Direct,NA,CancerResource,0,hydrophobic,neutral,very_small,very_small,none,none,1,0,0
+Q9NZI2,KCNIP1,D,N,187,1S1E,CA,Direct,NA,CancerResource,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q9NZI2,KCNIP1,D,N,187,2NZ0,CA,Direct,NA,CancerResource,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+O00187,MASP2,M,I,658,1Q3X,NA,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+O14508,SOCS2,V,I,112,2C9W,NI,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+O15392,BIRC5,G,R,83,3UIG,ZN,Indirect,NA,CancerResource,0,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+O15394,NCAM2,V,L,495,2JLL,CA,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+O95045,UPP2,K,Q,247,3P0F,CO,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+O95786,DDX58,N,H,868,3OG8,ZN,Indirect,NA,CancerResource,0,hydrophilic,neutral,small,medium,donor_and_acceptor,donor_and_acceptor,1,1,0
+P01116,KRAS,Q,H,61,4DSN,MG,Indirect,NA,CancerResource,0,hydrophilic,neutral,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P01116,KRAS,Q,K,61,4DSN,MG,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+P08133,ANXA6,N,S,307,1M9I,CA,Indirect,NA,CancerResource,0,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P15374,UCHL3,K,E,110,1XD3,MG,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,large,medium,donor,acceptor,0,1,1
+P19793,RXRA,A,T,136,3.00E+00,ZN,Indirect,NA,CancerResource,0,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P31947,SFN,P,R,79,3P1O,MG,Indirect,NA,CancerResource,0,neutral,hydrophilic,small,large,none,donor,1,1,1
+P35442,THBS2,I,V,931,1YO8,CA,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P35555,FBN1,A,T,108,2W86,CA,Indirect,NA,CancerResource,0,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P36507,MAP2K2,I,V,200,1S9I,MG,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P41594,GRM5,P,A,83,3LMK,MG,Indirect,NA,CancerResource,0,neutral,hydrophobic,small,very_small,none,none,1,1,0
+P49747,COMP,P,T,329,3FBY,CA,Indirect,NA,CancerResource,0,neutral,neutral,small,small,none,donor_and_acceptor,0,0,1
+P49747,COMP,P,L,490,3FBY,CA,Indirect,NA,CancerResource,0,neutral,hydrophobic,small,large,none,none,1,1,0
+P49789,FHIT,V,F,97,6FIT,W,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,medium,very_large,none,none,0,1,0
+P49903,SEPHS1,M,I,68,3FD5,K,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P51157,RAB28,I,M,45,3E5H,MG,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+P54315,PNLIP,E,D,457,2PPL,CA,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,medium,small,acceptor,acceptor,0,1,0
+P62136,PPP1CA,E,K,116,3E7B,NA,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P63316,TNNC1,G,S,68,1J1E,CA,Indirect,NA,CancerResource,0,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P78536,ADAM17,D,A,344,2DDF,CA,Indirect,NA,CancerResource,0,hydrophilic,hydrophobic,small,very_small,acceptor,none,1,1,1
+P98160,HSPG2,S,N,63,3SH5,CA,Indirect,NA,CancerResource,0,neutral,hydrophilic,very_small,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+Q06520,SULT2A1,Q,E,200,1J99,HG,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,medium,medium,donor_and_acceptor,acceptor,0,0,1
+Q13191,CBLB,M,I,392,2LDR,ZN,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q13255,GRM1,A,V,91,3KS9,MG,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q13489,BIRC3,Q,R,311,2UVL,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,medium,large,donor_and_acceptor,donor,0,1,1
+Q13887,KLF5,N,T,439,2EBT,ZN,Indirect,NA,CancerResource,0,hydrophilic,neutral,small,small,donor_and_acceptor,donor_and_acceptor,1,0,0
+Q13887,KLF5,G,R,436,2EBT,ZN,Indirect,NA,CancerResource,0,neutral,hydrophilic,very_small,large,none,donor,1,1,1
+Q14289,PTK2,F,L,669,3CC6,MG,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+Q14653,IRF3,A,V,93,3QU6,ZN,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q15120,PDK3,R,H,299,1Y8P,K,Indirect,NA,CancerResource,0,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q15759,MAPK11,S,I,293,3GC9,ZN,Indirect,NA,CancerResource,0,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+Q15907,RAB11B,A,T,182,2F9M,NI,Indirect,NA,CancerResource,0,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+Q16853,AOC3,N,S,592,2C11,CU,Indirect,NA,CancerResource,0,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+Q3MIT2,PUS10,V,I,108,2V9K,ZN,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q6NS38,ALK,S,P,235,3BU0,MN,Indirect,NA,CancerResource,0,neutral,neutral,very_small,small,donor_and_acceptor,none,0,1,1
+Q7L1T6,CYB5R4,V,A,111,3LF5,FE,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,medium,very_small,none,none,0,1,0
+Q8IYW5,RNF168,K,I,37,3L11,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophobic,large,large,donor,none,1,0,1
+Q8N3J5,PPM1K,K,E,144,4DA1,MG,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,large,medium,donor,acceptor,0,1,1
+Q8NBK3,SUMF1,I,V,294,1Y1E,CA,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+Q8WTR7,ZNF473,R,Q,777,2YSV,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q8WY64,MYLIP,E,Q,409,2YHO,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,medium,medium,acceptor,donor_and_acceptor,0,0,1
+Q96KQ7,EHMT2,D,N,1116,3K5K,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+Q9BYM8,RBCK1,K,E,29,2CRC,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,large,medium,donor,acceptor,0,1,1
+Q9H2K2,TNKS,V,I,1083,3P0Q,ZN,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q9P0K1,ADAM22,I,T,452,3G5C,CA,Indirect,NA,CancerResource,0,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+Q9UG22,GIMAP2,L,F,57,2XTN,MG,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+Q9UK17,KCND3,I,L,111,1S1G,ZN,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q9Y235,APOBEC2,A,T,130,2NYT,ZN,Indirect,NA,CancerResource,0,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+Q9Y297,BTRC,M,L,160,2P64,CD,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q9Y4K3,TRAF6,I,T,203,3HCS,ZN,Indirect,NA,CancerResource,0,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+Q9Y547,HSPB11,K,T,91,1TVG,SM,Indirect,NA,CancerResource,0,hydrophilic,neutral,large,small,donor,donor_and_acceptor,1,1,1
+O00151,PDLIM1,T,I,78,2PKT,CA,Indirect,NA,CancerResource,0,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+O00187,MASP2,A,V,149,1SZB,CA,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+O15392,BIRC5,E,K,75,3UIG,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+O60494,CUBN,H,R,978,3KQ4,CA,Indirect,NA,CancerResource,0,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+O60494,CUBN,T,I,1219,3KQ4,CA,Indirect,NA,CancerResource,0,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+O60563,CCNT1,A,S,263,3MI9,ZN,Indirect,NA,CancerResource,0,hydrophobic,neutral,very_small,very_small,none,donor_and_acceptor,1,0,1
+O94972,TRIM37,R,H,26,3LRQ,ZN,Indirect,NA,CancerResource,0,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+O94972,TRIM37,E,G,20,3LRQ,ZN,Indirect,NA,CancerResource,0,hydrophilic,neutral,medium,very_small,acceptor,none,1,1,1
+P07992,ERCC1,A,S,272,2A1J,HG,Indirect,NA,CancerResource,0,hydrophobic,neutral,very_small,very_small,none,donor_and_acceptor,1,0,1
+P08754,GNAI3,I,V,49,2ODE,MG,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P11226,MBL2,K,N,190,1HUP,CA,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,large,small,donor,donor_and_acceptor,0,1,1
+P15374,UCHL3,S,N,161,1XD3,MG,Indirect,NA,CancerResource,0,neutral,hydrophilic,very_small,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P21583,KITLG,V,L,115,1SCF,CA,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P27487,DPP4,D,N,488,2HHA,NA,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P31947,SFN,R,C,82,3P1O,MG,Indirect,NA,CancerResource,0,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P32321,DCT,D,N,108,2W4L,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P41208,CETN2,S,N,158,2GGM,CA,Indirect,NA,CancerResource,0,neutral,hydrophilic,very_small,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P47974,ZFP36L2,F,L,180,1RGO,ZN,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P49747,COMP,A,V,406,3FBY,CA,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P50281,MMP14,S,G,251,3MA2,ZN,Indirect,NA,CancerResource,0,neutral,neutral,very_small,very_small,donor_and_acceptor,none,0,0,1
+P58400,NRXN1,G,V,156,3B3Q,CA,Indirect,NA,CancerResource,0,neutral,hydrophobic,very_small,medium,none,none,1,1,0
+P61586,RHOA,F,L,39,1S1C,MG,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P63272,SUPT4H1,A,E,38,3H7H,ZN,Indirect,NA,CancerResource,0,hydrophobic,hydrophilic,very_small,medium,none,acceptor,1,1,1
+P63316,TNNC1,G,S,68,3RV5,CD,Indirect,NA,CancerResource,0,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P78310,CXADR,K,N,66,2WBW,CA,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,large,small,donor,donor_and_acceptor,0,1,1
+Q01780,EXOSC10,Y,F,491,3SAG,Y,Indirect,NA,CancerResource,0,neutral,hydrophobic,very_large,very_large,donor_and_acceptor,none,1,0,1
+Q07108,CD69,S,L,84,3HUP,NA,Indirect,NA,CancerResource,0,neutral,hydrophobic,very_small,large,donor_and_acceptor,none,1,1,1
+Q13490,BIRC2,V,L,324,3T6P,ZN,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+Q15649,ZNHIT3,R,G,36,2YQQ,ZN,Indirect,NA,CancerResource,0,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+Q15649,ZNHIT3,R,Q,36,2YQQ,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q6B0I6,KDM4D,R,Q,236,3DXT,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q8IW19,APLF,T,M,442,2KUO,ZN,Indirect,NA,CancerResource,0,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q8IWL3,HSCB,F,L,56,3BVO,ZN,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+Q8IWR0,ZC3H7A,N,K,927,2D9M,ZN,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,small,large,donor_and_acceptor,donor,0,1,1
+Q96FX2,DPH3,Y,C,24,2JR7,ZN,Indirect,NA,CancerResource,0,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
+Q9H2K2,TNKS2,T,I,1079,3P0Q,ZN,Indirect,NA,CancerResource,0,neutral,hydrophobic,small,large,donor_and_acceptor,none,1,1,1
+Q9NNX6,CD209,A,V,357,1K9I,CA,Indirect,NA,CancerResource,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q9P0K1,ADAM22,D,E,509,3G5C,CA,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+Q9UGB7,MIOX,K,R,251,2IBN,FE,Indirect,NA,CancerResource,0,hydrophilic,hydrophilic,large,large,donor,donor,0,0,0
+Q9UM07,PADI4,A,S,163,3B1U,CA,Indirect,NA,CancerResource,0,hydrophobic,neutral,very_small,very_small,none,donor_and_acceptor,1,0,1
+Q9Y4K3,TRAF6,A,T,194,3HCS,ZN,Indirect,NA,CancerResource,0,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+O75173,ADAMTS4,D,N,304,2RJP,CA,Direct,NA,Uniprot,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+O96017,CHEK2,D,N,347,2W7X,MG,Direct,NA,Uniprot,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P16442,ABO,M,R,288,1ZIZ,HG,Direct,NA,Uniprot,0,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P27695,APEX1,D,E,148,1BIX,SM,Direct,NA,Uniprot,0,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+P35226,BMI1,C,Y,18,2H0D,ZN,Direct,NA,Uniprot,0,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P38398,BRCA1,C,Y,64,1JM7,ZN,Direct,NA,Uniprot,0,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P49643,PRIM2,C,Y,287,3L9Q,FE,Direct,NA,Uniprot,0,hydrophobic,neutral,small,very_large,none,donor_and_acceptor,1,1,1
+P63000,RAC1,D,G,63,2P2L,ZN,Direct,NA,Uniprot,0,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P68871,HBB,H,D,93,2YRS,FE,Direct,NA,Uniprot,0,neutral,hydrophilic,medium,small,donor_and_acceptor,acceptor,1,1,1
+P68871,HBB,H,N,93,2YRS,FE,Direct,NA,Uniprot,0,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P68871,HBB,H,P,93,2YRS,FE,Direct,NA,Uniprot,0,neutral,neutral,medium,small,donor_and_acceptor,none,0,1,1
+P68871,HBB,H,Q,93,2YRS,FE,Direct,NA,Uniprot,0,neutral,hydrophilic,medium,medium,donor_and_acceptor,donor_and_acceptor,1,0,0
+P69905,HBA1,H,N,88,1BZ1,FE,Direct,NA,Uniprot,0,neutral,hydrophilic,medium,small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P69905,HBA1,H,R,88,1BZ1,FE,Direct,NA,Uniprot,0,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+Q12866,MERTK,E,Q,823,3BPR,NA,Direct,NA,Uniprot,0,hydrophilic,hydrophilic,medium,medium,acceptor,donor_and_acceptor,0,0,1
+Q16853,AOC3,H,Y,167,2C11,CU,Direct,NA,Uniprot,0,neutral,neutral,medium,very_large,donor_and_acceptor,donor_and_acceptor,0,1,0
+O00213,APBB1,N,S,396,3D8D,HG,Indirect,NA,Uniprot,0,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+O14618,CCS,R,W,163,1DO5,ZN,Indirect,NA,Uniprot,0,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+O43745,CHP2,R,P,127,2BEC,Y,Indirect,NA,Uniprot,0,hydrophilic,neutral,large,small,donor,none,1,1,1
+P01031,C5,R,C,885,3KLS,CD,Indirect,NA,Uniprot,0,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P01031,C5,R,H,885,3KLS,CD,Indirect,NA,Uniprot,0,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P01130,LDLR,E,K,240,1D2J,CA,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P01130,LDLR,G,S,335,1N7D,CA,Indirect,NA,Uniprot,0,neutral,neutral,very_small,very_small,none,donor_and_acceptor,0,0,1
+P02795,MT2A,A,V,42,1MHU,CD,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+P03956,MMP1,I,V,191,966C,CA,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P05177,CYP1A2,R,W,457,2HI4,FE,Indirect,NA,Uniprot,0,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+P06703,S100A6,H,R,27,1K9K,CA,Indirect,NA,Uniprot,0,neutral,hydrophilic,medium,large,donor_and_acceptor,donor,1,1,1
+P08253,MMP2,V,L,621,1GEN,NA,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P08253,MMP2,D,Y,210,1CK7,CA,Indirect,NA,Uniprot,0,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+P09238,MMP10,F,L,226,3V96,ZN,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P09874,PARP1,F,L,54,3ODA,ZN,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,very_large,large,none,none,0,1,0
+P11509,CYP2A6,N,Y,438,3T3Q,FE,Indirect,NA,Uniprot,0,hydrophilic,neutral,small,very_large,donor_and_acceptor,donor_and_acceptor,1,1,0
+P11712,CYP2C9,I,F,434,1OG2,FE,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+P15531,NME1,S,G,120,1UCN,CA,Indirect,NA,Uniprot,0,neutral,neutral,very_small,very_small,donor_and_acceptor,none,0,0,1
+P16442,ABO,M,R,214,2Y7A,MN,Indirect,NA,Uniprot,0,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P16442,ABO,M,R,214,3SX5,MN,Indirect,NA,Uniprot,0,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P16455,MGMT,E,K,30,1EH7,ZN,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P16455,MGMT,L,F,84,1EH7,ZN,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+P19801,AOC1,N,H,659,3K5T,CA,Indirect,NA,Uniprot,0,hydrophilic,neutral,small,medium,donor_and_acceptor,donor_and_acceptor,1,1,0
+P25490,YY1,T,R,372,1UBD,ZN,Indirect,NA,Uniprot,0,neutral,hydrophilic,small,large,donor_and_acceptor,donor,1,1,1
+P32754,HPD,I,F,267,3ISQ,CO,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,large,very_large,none,none,0,1,0
+P35555,FBN1,C,F,2170,1EMN,CA,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,small,very_large,none,none,0,1,0
+P49747,COMP,R,C,381,3FBY,CA,Indirect,NA,Uniprot,0,hydrophilic,hydrophobic,large,small,donor,none,1,1,1
+P63000,RAC1,K,R,130,2P2L,ZN,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,large,large,donor,donor,0,0,0
+P68871,HBB,L,P,92,2YRS,FE,Indirect,NA,Uniprot,0,hydrophobic,neutral,large,small,none,none,1,1,0
+P68871,HBB,L,R,92,2YRS,FE,Indirect,NA,Uniprot,0,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P68871,HBB,C,R,94,2YRS,FE,Indirect,NA,Uniprot,0,hydrophobic,hydrophilic,small,large,none,donor,1,1,1
+P69905,HBA1,L,R,87,1BZ1,FE,Indirect,NA,Uniprot,0,hydrophobic,hydrophilic,large,large,none,donor,1,0,1
+P69905,HBA1,A,S,89,1BZ1,FE,Indirect,NA,Uniprot,0,hydrophobic,neutral,very_small,very_small,none,donor_and_acceptor,1,0,1
+Q00403,GTF2B,P,S,19,1RLY,ZN,Indirect,NA,Uniprot,0,neutral,neutral,small,very_small,none,donor_and_acceptor,0,1,1
+Q05315,CLC,A,V,28,1HDK,HG,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q07869,PPARA,A,V,268,1K7L,Y,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q13938,CAPS,R,G,39,3E3R,CA,Indirect,NA,Uniprot,0,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+Q6P179,ERAP2,K,N,392,3SE6,ZN,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,large,small,donor,donor_and_acceptor,0,1,1
+Q8WV22,NSMCE1,T,R,38,2CT0,ZN,Indirect,NA,Uniprot,0,neutral,hydrophilic,small,large,donor_and_acceptor,donor,1,1,1
+Q92730,RND1,P,R,44,2CLS,MG,Indirect,NA,Uniprot,0,neutral,hydrophilic,small,large,none,donor,1,1,1
+Q96C86,DCPS,G,E,73,1ST0,Y,Indirect,NA,Uniprot,0,neutral,hydrophilic,very_small,medium,none,acceptor,1,1,1
+Q9HC16,APOBEC3G,R,H,256,3V4K,ZN,Indirect,NA,Uniprot,0,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+Q9UJ71,CD207,N,D,288,3P5D,CA,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,small,small,donor_and_acceptor,acceptor,0,0,1
+Q9UM07,PADI4,M,T,164,3B1U,CA,Indirect,NA,Uniprot,0,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+Q9UM07,PADI4,M,T,164,1WDA,CA,Indirect,NA,Uniprot,0,hydrophobic,neutral,large,small,none,donor_and_acceptor,1,1,1
+O60494,CUBN,Y,H,1032,3KQ4,CA,Indirect,NA,Uniprot,0,neutral,neutral,very_large,medium,donor_and_acceptor,donor_and_acceptor,0,1,0
+O75173,ADAMTS4,M,V,369,3B2Z,ZN,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P02766,TTR,D,H,94,3GRG,ZN,Indirect,NA,Uniprot,0,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P03956,MMP1,S,T,406,2CLT,CA,Indirect,NA,Uniprot,0,neutral,neutral,very_small,small,donor_and_acceptor,donor_and_acceptor,0,1,0
+P05177,CYP1A2,R,H,456,2HI4,FE,Indirect,NA,Uniprot,0,hydrophilic,neutral,large,medium,donor,donor_and_acceptor,1,1,1
+P06703,S100A6,N,S,69,1K96,CA,Indirect,NA,Uniprot,0,hydrophilic,neutral,small,very_small,donor_and_acceptor,donor_and_acceptor,1,1,0
+P07108,DBI,M,V,71,2FJ9,PB,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,large,medium,none,none,0,1,0
+P07355,ANXA2,V,L,98,1XJL,CA,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,medium,large,none,none,0,1,0
+P07384,CAPN1,T,A,103,2ARY,CA,Indirect,NA,Uniprot,0,neutral,hydrophobic,small,very_small,donor_and_acceptor,none,1,1,1
+P16442,ABO,R,W,198,1ZJ0,HG,Indirect,NA,Uniprot,0,hydrophilic,hydrophobic,large,very_large,donor,donor,1,1,0
+P18887,XRCC1,V,A,72,3LQC,NA,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,medium,very_small,none,none,0,1,0
+P28827,PTPRM,S,R,39,2C9A,NA,Indirect,NA,Uniprot,0,neutral,hydrophilic,very_small,large,donor_and_acceptor,donor,1,1,1
+P49747,COMP,R,G,224,3FBY,CA,Indirect,NA,Uniprot,0,hydrophilic,neutral,large,very_small,donor,none,1,1,1
+P63000,RAC1,A,T,59,3RYT,MG,Indirect,NA,Uniprot,0,hydrophobic,neutral,very_small,small,none,donor_and_acceptor,1,1,1
+P63000,RAC1,K,E,133,2P2L,ZN,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,large,medium,donor,acceptor,0,1,1
+P68871,HBB,E,D,91,2YRS,FE,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,medium,small,acceptor,acceptor,0,1,0
+P68871,HBB,E,K,91,2YRS,FE,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,medium,large,acceptor,donor,0,1,1
+P68871,HBB,D,G,95,2YRS,FE,Indirect,NA,Uniprot,0,hydrophilic,neutral,small,very_small,acceptor,none,1,1,1
+P68871,HBB,D,H,95,2YRS,FE,Indirect,NA,Uniprot,0,hydrophilic,neutral,small,medium,acceptor,donor_and_acceptor,1,1,1
+P68871,HBB,D,N,95,2YRS,FE,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,small,small,acceptor,donor_and_acceptor,0,0,1
+P69905,HBA1,D,V,86,1BZ1,FE,Indirect,NA,Uniprot,0,hydrophilic,hydrophobic,small,medium,acceptor,none,1,1,1
+P69905,HBA1,D,Y,86,1BZ1,FE,Indirect,NA,Uniprot,0,hydrophilic,neutral,small,very_large,acceptor,donor_and_acceptor,1,1,1
+Q07820,MCL1,A,V,227,3PK1,CD,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,very_small,medium,none,none,0,1,0
+Q14653,IRF3,R,Q,96,3QU6,ZN,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,large,medium,donor,donor_and_acceptor,0,1,1
+Q14995,NR1D2,L,M,386,3CQV,FE,Indirect,NA,Uniprot,0,hydrophobic,hydrophobic,large,large,none,none,0,0,0
+Q9H2H8,PPIL3,D,E,146,2OK3,NI,Indirect,NA,Uniprot,0,hydrophilic,hydrophilic,small,medium,acceptor,acceptor,0,1,0
+Q9H2X3,CLEC4M,Y,C,251,1SL6,CA,Indirect,NA,Uniprot,0,neutral,hydrophobic,very_large,small,donor_and_acceptor,none,1,1,1
