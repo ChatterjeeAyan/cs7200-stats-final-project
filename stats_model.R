@@ -225,6 +225,9 @@ train <- sample(x=1:nrow(mutations_small), size=nrow(mutations_small)/3)
 # fit the full model on the training dataset
 fit.train <- glm(disease ~vol + hDonor + vol*hDonor, family=binomial, data=mutations_small[train,])
 
+
+
+
 summary(fit.train)
 summary(fit_V_H_VH)
 
@@ -293,199 +296,39 @@ table(data.frame(pockets$pocketG, pockets$Class))
 
 # X’β = β0 + β1Xi1 + β2Xi2 + β3Xi1 Xi2 + β4Xi3 + β5Xi4 + β6Xi5
 fit.pocket <- glm(Class ~ X2 + X3 + X2*X3 + pocketA + pocketG + pocketGeary, family=binomial, data=pockets) 
-#fitting the Additive Regression Model which is linear in Year
-fit.gam.full <- gam(Class ~ X2 + X3 + X2*X3 + s(pocketA) + s(pocketG) + s(pocketGeary), family=binomial, data=pockets)
-plot(fit.gam.full, se=TRUE)
+summary(fit.pocket)
 
-fit.gam.pocketA <- gam(Class ~ s(pocketA), family=binomial, data=pockets)
-plot(fit.gam.pocketA, se=TRUE)
+# Wald CI for the parameters, 
+confint(fit.pocket)
 
-data.frame(tableA)
-fit.pocketA <- glm(Class ~ s(pocketA), family=binomial, data=pockets)
-pockets$pocketA
-
-plot(Class ~ pocketA, data=pockets, se=TRUE)
-
-plot(damage/6 ~ temp, orings, xlim=c(25,85),ylim=c(0,1),
-     xlab="Temperature",ylab="Proportion of damage", pch=16)
-
-fit.gam.a <- gam(Class ~ s(Pocket_A), family=binomial, data=pockets)
-plot(fit.gam.a, se=TRUE)
+# using residuals plot, 
 
 
-fm1 <- cbind(agree, disagree) ~ s(education, by = gender)
-R> womensrole_gam <- gam(fm1, data = womensrole,
-                         + family = binomial())
-
-
-
-
-
-# logitgam2<-gam(I(wage >250) ~ s(age,df=4)+ year + education , data =Wage, family = binomial)
-
-#Partial contributions of three exploratory variables with confidence bands.
-
-plot(logitgam2)
-
-summary(fit)
-
-?table
-
-library(faraway)
-data(orings)
-
-# ---------------------Explore graphically-----------------------------
-plot(damage/6 ~ temp, orings, xlim=c(25,85),ylim=c(0,1),
-     xlab="Temperature",ylab="Proportion of damage", pch=16)
-
-# ----------Fit (specify 2 responses: # of 1s and # of 0s)-------------
-# Required when data are in form of Binomial distribution (as opposed to Bernouilli)
-fit <- glm(cbind(damage, 6-damage) ~ temp, family=binomial, data=orings)
-summary(fit)
-
-# --------------Confidence intervals on parameter estimates-------------
-confint(fit)
-
-# ----------------------------Prediction--------------------------------
-# make 10 groups for temperatures
-newOrings <- data.frame(temp=seq(from=10, to=100, length=10))
-# 10 predictions for the mean response and their se
-newOrings.predict <- predict(fit, newdata=newOrings, se.fit=T, type="response")
-lines(newOrings$temp, newOrings.predict$fit)
-
-# -------------Bonferroni-corrected CI intervals for the mean-----------
-# use when multiple X are of interest
-newOrings.predictLink <- predict(fit, newdata=newOrings, se.fit=T, type="link")
-newOrings.predict$fit
-newOrings.predictLink$fit
-L <- newOrings.predictLink$fit - qnorm(1-0.05/(2*10))*newOrings.predictLink$se
-U <- newOrings.predictLink$fit + qnorm(1-0.05/(2*10))*newOrings.predictLink$se
-lines(newOrings$temp, 1/(1+exp(-L)), lty=2, col="blue")
-lines(newOrings$temp, 1/(1+exp(-U)), lty=2, col="blue")
-
-# ---------------------Evidence of mild overdispersion------------------
-# Estimate the overdispersion parameter
-est.phi <- function(glmobj) { 
-  sum( residuals(glmobj, type="pearson")^2 / df.residual(glmobj) )
-}
-est.phi(fit) # if 
-
-# refit the model while allowing for overdispersion
-fit1 <- glm(cbind(damage, 6-damage) ~ temp, family=quasibinomial, data=orings)
-summary(fit1)
-# equivalent (more computationally efficient): update the previous model
-summary( update(fit, family="quasibinomial") )
-
-# examine the resulting change in inference
-newOrings.predictLink1 <- predict(fit1, newdata=newOrings, se.fit=T, type="link")
-L1 <- newOrings.predictLink1$fit - qnorm(1-0.05/(2*10))*newOrings.predictLink1$se
-U1 <- newOrings.predictLink1$fit + qnorm(1-0.05/(2*10))*newOrings.predictLink1$se
-lines(newOrings$temp, 1/(1+exp(-L1)), lty=2, col="red")
-lines(newOrings$temp, 1/(1+exp(-U1)), lty=2, col="red")
-legend("topright", lty=2, col=c("blue","red"), c("no overdispersion", "with overdispersion"))
-
-# -------------------------Alternative link function---------------------------
-plot(damage/6 ~ temp, orings, xlim=c(25,85),ylim=c(0,1),
-     xlab="Temperature",ylab="Proportion of damage", pch=16)
-
-# Same as before: redo precistion with logit link
-newOrings <- data.frame(temp=seq(from=10, to=100, length=10))
-newOrings.predict.logistic <- predict(fit, newdata=newOrings, se.fit=T, type="response")
-lines(newOrings$temp, newOrings.predict.logistic$fit, col="blue")
-
-# Compare with probit link
-fit2 <- glm(cbind(damage,6-damage) ~ temp, family=binomial(link="probit"), data=orings)
-newOrings.predict.probit <- predict(fit2, newdata=newOrings, se.fit=T, type="response")
-lines(newOrings$temp, newOrings.predict.probit$fit, col="red")
-
-legend("topright", lty=1, col=c("blue", "red"), c("logit", "probit"))
-
-# a more detailed look into the differences
-plot(newOrings$temp, newOrings.predict.logistic$fit/newOrings.predict.probit$fit, 
-     type="l", xlab="Temperature", ylab="Ratio of predicted probabilities")
-
-
-
-
-#######################################################################
-#                   Example of variable selection
-#######################################################################
-library(faraway)
-data(pima)
-?pima
-head(pima)
-
-# ---------------------Fit the full model-----------------------------
-fit <- glm(test ~., family=binomial, data=pima)
-summary(fit)
-
-
-# -------------------------Residual diagnostics-------------------------
 # Pearson residuals vs predicted response
-plot( residuals(fit, type="pearson") ~ predict(fit, type="response"), 
+plot( residuals(fit.pocket, type="pearson") ~ predict(fit.pocket, type="response"), 
       xlab=expression(hat(pi)), ylab="Pearson Residual")
 
 # Pearson residuals vs predicted link    
-plot(residuals(fit, type="pearson") ~ predict(fit,type="link"), 
+plot(residuals(fit.pocket, type="pearson") ~ predict(fit.pocket,type="link"), 
      xlab=expression(hat(eta)), ylab="Pearson Residual")
 
 # Deviance residuals vs predicted response
-plot( residuals(fit, type="deviance") ~ predict(fit, type="response"), 
+plot( residuals(fit.pocket, type="deviance") ~ predict(fit.pocket, type="response"), 
       xlab=expression(hat(pi)), ylab="Deviance Residual")
 
-# Studentized residuals vs predicted response
-plot( rstudent(fit) ~ predict(fit, type="response"), 
-      xlab=expression(hat(pi)), ylab="Studentized Residual")
-
-# Cooks distance
-plot(cooks.distance(fit) ~ predict(fit,type="response"), 
-     xlab=expression(hat(pi)), ylab="Cooks distance")
 
 
-#------------------------Deviance test of lack of fit--------------------
-# Fail to reject H0 (warning: these are not grouped data - poor quality of approximation!)
-pchisq(deviance(fit), df.residual(fit), lower=F)
-
-# H-L test of lack of fit
-hosmerlem <- function (y, yhat, g = 10) 
-{
-  cutyhat <- cut(yhat, breaks = quantile(yhat, probs = seq(0, 
-                                                           1, 1/g)), include.lowest = T)
-  obs <- xtabs(cbind(1 - y, y) ~ cutyhat)
-  expect <- xtabs(cbind(1 - yhat, yhat) ~ cutyhat)
-  chisq <- sum((obs - expect)^2/expect)
-  P <- 1 - pchisq(chisq, g - 2)
-  c("X^2" = chisq, Df = g - 2, "P(>Chi)" = P)
-}
-hosmerlem(y=pima$test, predict(fit, type="response"), g = 10)
-hoslem.test(pima$test, fitted(fit))
-pima
 
 
-# -------------------------Compare nested models-------------------------
-summary(fit)
-
-# let us try to remove 'age' by comparing residual deviances to chisq(1)
-fit1 <- update(fit, .~.-age) 
-summary(fit1)
-pchisq(deviance(fit1)-deviance(fit), 1, lower=F)
-
-# let us try to remove one predictor at a time
-# by comparing residual deviances to chisq(1)
-drop1(fit, test="Chisq")
-
-# stepwise variable selection based on AIC 
-# ('k' distinguishes AIC and BIC)
-step.aic <- step(fit, k=2, trace=F) 
-step.aic$anova
-
-# stepwise variable selection based on BIC
-step.bic <- step(fit, k=log(nrow(pima)), trace=F) 
-step.bic$anova
-
-# based on F test, in presence of dispersion
-drop1(fit, test="F")
-
-
+# 
+# # Pearson Chi-squared test for goodness of fit 
+# 
+# # log likelihood ratio tests
+# summary(fit_V_H_VH)
+# fit.simple <- glm(Class ~ X2 + X3 + X2*X3, family=binomial, data=pockets) 
+# summary(fit.simple)
+# lrtest(fit.simple, fit.pocket) 
+# 
+# 
 
 
